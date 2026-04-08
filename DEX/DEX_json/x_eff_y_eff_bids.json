@@ -1,0 +1,1622 @@
+{
+    "JLP": {
+        "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+        "symbol": "JLP",
+        "decimals": 6,
+        "daily_volume": 56924850.05001315,
+        "X_eff_bid": 318942153.60024863,
+        "Y_eff_bid": 1466480181.0337515,
+        "price_per_token": 4.609863
+    },
+    "JitoSOL": {
+        "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "symbol": "JitoSOL",
+        "decimals": 9,
+        "daily_volume": 40026657.892080754,
+        "X_eff_bid": 1405150.0936110104,
+        "Y_eff_bid": 281448721.46660197,
+        "price_per_token": 199.267512
+    },
+    "mSOL": {
+        "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "symbol": "mSOL",
+        "decimals": 9,
+        "daily_volume": 36993454.4721344,
+        "X_eff_bid": 910931416.6683066,
+        "Y_eff_bid": 195199464949.08295,
+        "price_per_token": 214.297335
+    },
+    "aura": {
+        "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+        "symbol": "aura",
+        "decimals": 6,
+        "daily_volume": 23880035.92293179,
+        "X_eff_bid": 42464354.57610283,
+        "Y_eff_bid": 2256774.9929718,
+        "price_per_token": 0.053515
+    },
+    "LAUNCHCOIN": {
+        "address": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+        "symbol": "LAUNCHCOIN",
+        "decimals": 9,
+        "daily_volume": 21702205.227423735,
+        "X_eff_bid": 54160448.90720593,
+        "Y_eff_bid": 12374669.558932282,
+        "price_per_token": 0.225271
+    },
+    "WBTC": {
+        "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "daily_volume": 15143776.135053797,
+        "X_eff_bid": 119327.87639870131,
+        "Y_eff_bid": 13023518628.277422,
+        "price_per_token": 109139.638043
+    },
+    "CryBB": {
+        "address": "FP2XnGpqP5opNZujB6KPpXYWSAwq7BbTUVUnRij1bonk",
+        "symbol": "CryBB",
+        "decimals": 6,
+        "daily_volume": 10674780.066264322,
+        "X_eff_bid": 17481710.585831426,
+        "Y_eff_bid": 195945.35681645153,
+        "price_per_token": 0.011236
+    },
+    "Verse": {
+        "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+        "symbol": "Verse",
+        "decimals": 6,
+        "daily_volume": 7893771.59553849,
+        "X_eff_bid": 270.80452498289134,
+        "Y_eff_bid": 1596651.1462586746,
+        "price_per_token": 0.426491
+    },
+    "USDG": {
+        "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+        "symbol": "USDG",
+        "decimals": 6,
+        "daily_volume": 7624871.983778873,
+        "X_eff_bid": 724038448.6084527,
+        "Y_eff_bid": 723973178.28039,
+        "price_per_token": 1.000466
+    },
+    "USELESS": {
+        "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+        "symbol": "USELESS",
+        "decimals": 6,
+        "daily_volume": 6257303.231571807,
+        "X_eff_bid": 44370460.94629821,
+        "Y_eff_bid": 1910109.0108413738,
+        "price_per_token": 0.043609
+    },
+    "LABUBU": {
+        "address": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+        "symbol": "LABUBU",
+        "decimals": 6,
+        "daily_volume": 5643857.411176271,
+        "X_eff_bid": 30691015.299184658,
+        "Y_eff_bid": 1538172.2419014722,
+        "price_per_token": 0.050353
+    },
+    "KMNO": {
+        "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+        "symbol": "KMNO",
+        "decimals": 6,
+        "daily_volume": 4344301.056273047,
+        "X_eff_bid": 66339519.39157004,
+        "Y_eff_bid": 4456401.037008968,
+        "price_per_token": 0.067368
+    },
+    "ZEX": {
+        "address": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
+        "symbol": "ZEX",
+        "decimals": 6,
+        "daily_volume": 4077946.9339890303,
+        "X_eff_bid": 4482649.739206203,
+        "Y_eff_bid": 595430.3503512193,
+        "price_per_token": 0.133167
+    },
+    "KLED": {
+        "address": "1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm",
+        "symbol": "KLED",
+        "decimals": 9,
+        "daily_volume": 3992527.274150968,
+        "X_eff_bid": 78967842.31590436,
+        "Y_eff_bid": 2168249.3096463843,
+        "price_per_token": 0.027928
+    },
+    "PYUSD": {
+        "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+        "symbol": "PYUSD",
+        "decimals": 6,
+        "daily_volume": 2817015.196010004,
+        "X_eff_bid": 857046182.6691601,
+        "Y_eff_bid": 856797757.220074,
+        "price_per_token": 0.99982
+    },
+    "GIGA": {
+        "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+        "symbol": "GIGA",
+        "decimals": 5,
+        "daily_volume": 2788472.0794871203,
+        "X_eff_bid": 153928115.02665237,
+        "Y_eff_bid": 4180448.998099599,
+        "price_per_token": 0.027207
+    },
+    "AUSD": {
+        "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+        "symbol": "AUSD",
+        "decimals": 6,
+        "daily_volume": 2009439.008660756,
+        "X_eff_bid": 1028890495.0511994,
+        "Y_eff_bid": 1028163859.4074967,
+        "price_per_token": 1.000162
+    },
+    "FWOG": {
+        "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+        "symbol": "FWOG",
+        "decimals": 6,
+        "daily_volume": 1847763.0179914543,
+        "X_eff_bid": 52327839.37347866,
+        "Y_eff_bid": 3419690.0411701133,
+        "price_per_token": 0.065691
+    },
+    "Hosico": {
+        "address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+        "symbol": "Hosico",
+        "decimals": 6,
+        "daily_volume": 1730982.16145521,
+        "X_eff_bid": 48391692.82330116,
+        "Y_eff_bid": 859582.3594231663,
+        "price_per_token": 0.017854
+    },
+    "DIS": {
+        "address": "2AEU9yWk3dEGnVwRaKv4div5TarC4dn7axFLyz6zG4Pf",
+        "symbol": "DIS",
+        "decimals": 9,
+        "daily_volume": 1474079.878903461,
+        "X_eff_bid": 370309.7321052364,
+        "Y_eff_bid": 6180.477557774034,
+        "price_per_token": 0.016707
+    },
+    "PCULE": {
+        "address": "J27UYHX5oeaG1YbUGQc8BmJySXDjNWChdGB2Pi2TMDAq",
+        "symbol": "PCULE",
+        "decimals": 9,
+        "daily_volume": 1465187.395756162,
+        "X_eff_bid": 141020694.81703642,
+        "Y_eff_bid": 1363931.79774111,
+        "price_per_token": 0.009721
+    },
+    "titcoin": {
+        "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+        "symbol": "titcoin",
+        "decimals": 6,
+        "daily_volume": 1446622.944364261,
+        "X_eff_bid": 55622504.19731447,
+        "Y_eff_bid": 1117008.0844652334,
+        "price_per_token": 0.020169
+    },
+    "MOODENG": {
+        "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+        "symbol": "MOODENG",
+        "decimals": 6,
+        "daily_volume": 1386019.9400049068,
+        "X_eff_bid": 51331222.583184555,
+        "Y_eff_bid": 10346787.244574921,
+        "price_per_token": 0.203995
+    },
+    "FDUSD": {
+        "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+        "symbol": "FDUSD",
+        "decimals": 6,
+        "daily_volume": 1354026.914352469,
+        "X_eff_bid": 1506121288.2861495,
+        "Y_eff_bid": 1503980749.5166848,
+        "price_per_token": 0.998843
+    },
+    "LOCKIN": {
+        "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+        "symbol": "LOCKIN",
+        "decimals": 9,
+        "daily_volume": 1332537.3706745273,
+        "X_eff_bid": 46646373.78338734,
+        "Y_eff_bid": 603470.0310005251,
+        "price_per_token": 0.013097
+    },
+    "GOONC": {
+        "address": "ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb",
+        "symbol": "GOONC",
+        "decimals": 9,
+        "daily_volume": 1316824.682764185,
+        "X_eff_bid": 172489354.15795472,
+        "Y_eff_bid": 1099235.924355951,
+        "price_per_token": 0.006516
+    },
+    "PYTHIA": {
+        "address": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+        "symbol": "PYTHIA",
+        "decimals": 6,
+        "daily_volume": 1263676.171318503,
+        "X_eff_bid": 418258364.9753879,
+        "Y_eff_bid": 11934344.075673468,
+        "price_per_token": 0.028617
+    },
+    "bSOL": {
+        "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "symbol": "bSOL",
+        "decimals": 9,
+        "daily_volume": 1100690.8826670807,
+        "X_eff_bid": 120690083.95835552,
+        "Y_eff_bid": 24351223811.824837,
+        "price_per_token": 201.762864
+    },
+    "ALON": {
+        "address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+        "symbol": "ALON",
+        "decimals": 6,
+        "daily_volume": 1089252.6720545397,
+        "X_eff_bid": 50741604.01006493,
+        "Y_eff_bid": 712826.347686347,
+        "price_per_token": 0.014174
+    },
+    "arc": {
+        "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+        "symbol": "arc",
+        "decimals": 6,
+        "daily_volume": 1042303.1994958026,
+        "X_eff_bid": 413848717.91603,
+        "Y_eff_bid": 15818008.133226743,
+        "price_per_token": 0.038462
+    },
+    "USA": {
+        "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+        "symbol": "USA",
+        "decimals": 6,
+        "daily_volume": 1029598.7343958892,
+        "X_eff_bid": 629573985034.3677,
+        "Y_eff_bid": 1041724.5720464879,
+        "price_per_token": 1e-06
+    },
+    "EURC": {
+        "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+        "symbol": "EURC",
+        "decimals": 6,
+        "daily_volume": 1000448.2403426478,
+        "X_eff_bid": 99413897.1787272,
+        "Y_eff_bid": 113597833.56441328,
+        "price_per_token": 1.142901
+    },
+    "SAROS": {
+        "address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
+        "symbol": "SAROS",
+        "decimals": 6,
+        "daily_volume": 945597.6223680862,
+        "X_eff_bid": 2670236.4585164664,
+        "Y_eff_bid": 603640.9535279146,
+        "price_per_token": 0.227292
+    },
+    "CLOUD": {
+        "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+        "symbol": "CLOUD",
+        "decimals": 9,
+        "daily_volume": 838345.2784025555,
+        "X_eff_bid": 23165469.888397373,
+        "Y_eff_bid": 3214857.0622615307,
+        "price_per_token": 0.13926
+    },
+    "NYLA": {
+        "address": "3HeUeL8ru8DFfRRQGnE11vGrDdNUzqVwBW8hyYHBbonk",
+        "symbol": "NYLA",
+        "decimals": 6,
+        "daily_volume": 761054.4962364658,
+        "X_eff_bid": 74212523.5915709,
+        "Y_eff_bid": 375548.26726415043,
+        "price_per_token": 0.00512
+    },
+    "MPLX": {
+        "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+        "symbol": "MPLX",
+        "decimals": 6,
+        "daily_volume": 754215.8927570676,
+        "X_eff_bid": 40109568.01378539,
+        "Y_eff_bid": 5344395.79795461,
+        "price_per_token": 0.133816
+    },
+    "HNT": {
+        "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+        "symbol": "HNT",
+        "decimals": 8,
+        "daily_volume": 705905.5504483083,
+        "X_eff_bid": 970598.6691528021,
+        "Y_eff_bid": 2836894.5035837465,
+        "price_per_token": 2.922476
+    },
+    "RETARDIO": {
+        "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+        "symbol": "RETARDIO",
+        "decimals": 6,
+        "daily_volume": 667211.5813196482,
+        "X_eff_bid": 34390989.38955116,
+        "Y_eff_bid": 892208.8733648487,
+        "price_per_token": 0.026146
+    },
+    "MOBY": {
+        "address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+        "symbol": "MOBY",
+        "decimals": 6,
+        "daily_volume": 650207.9860733988,
+        "X_eff_bid": 42049929.09222827,
+        "Y_eff_bid": 530596.9890328497,
+        "price_per_token": 0.012696
+    },
+    "bbSOL": {
+        "address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+        "symbol": "bbSOL",
+        "decimals": 9,
+        "daily_volume": 632433.2174747771,
+        "X_eff_bid": 185490.43549180852,
+        "Y_eff_bid": 33294558.195079807,
+        "price_per_token": 179.208773
+    },
+    "DUPE": {
+        "address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+        "symbol": "DUPE",
+        "decimals": 9,
+        "daily_volume": 617095.6847369231,
+        "X_eff_bid": 40613117.00125822,
+        "Y_eff_bid": 678043.661894628,
+        "price_per_token": 0.016987
+    },
+    "MNDE": {
+        "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "symbol": "MNDE",
+        "decimals": 9,
+        "daily_volume": 604230.8235003757,
+        "X_eff_bid": 19436029.869444508,
+        "Y_eff_bid": 2749134.693697814,
+        "price_per_token": 0.142252
+    },
+    "MLG": {
+        "address": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+        "symbol": "MLG",
+        "decimals": 6,
+        "daily_volume": 599273.8111947351,
+        "X_eff_bid": 62723661.27409793,
+        "Y_eff_bid": 596808.1083046827,
+        "price_per_token": 0.009542
+    },
+    "SELFIE": {
+        "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+        "symbol": "SELFIE",
+        "decimals": 6,
+        "daily_volume": 558613.4233276378,
+        "X_eff_bid": 104017062.55983372,
+        "Y_eff_bid": 369367.6229983642,
+        "price_per_token": 0.003579
+    },
+    "mini": {
+        "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+        "symbol": "mini",
+        "decimals": 6,
+        "daily_volume": 551053.067726583,
+        "X_eff_bid": 78155928.86872043,
+        "Y_eff_bid": 684012.291611811,
+        "price_per_token": 0.008779
+    },
+    "TROLL": {
+        "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+        "symbol": "TROLL",
+        "decimals": 6,
+        "daily_volume": 530277.7352195532,
+        "X_eff_bid": 33587827.54188819,
+        "Y_eff_bid": 612044.1317312882,
+        "price_per_token": 0.018178
+    },
+    "BONGO": {
+        "address": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU",
+        "symbol": "BONGO",
+        "decimals": 9,
+        "daily_volume": 501911.68568476907,
+        "X_eff_bid": 35619985.3311549,
+        "Y_eff_bid": 380892.38499117555,
+        "price_per_token": 0.010724
+    },
+    "SONIC": {
+        "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+        "symbol": "SONIC",
+        "decimals": 9,
+        "daily_volume": 488910.9729629515,
+        "X_eff_bid": 11091105.284895072,
+        "Y_eff_bid": 2653047.322326794,
+        "price_per_token": null
+    },
+    "KNET": {
+        "address": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
+        "symbol": "KNET",
+        "decimals": 9,
+        "daily_volume": 467963.95468092174,
+        "X_eff_bid": 44370601.39766401,
+        "Y_eff_bid": 453875.38101748325,
+        "price_per_token": 0.010624
+    },
+    "LetsBONK": {
+        "address": "CDBdbNqmrLu1PcgjrFG52yxg71QnFhBZcUE6PSFdbonk",
+        "symbol": "LetsBONK",
+        "decimals": 6,
+        "daily_volume": 452566.79902842286,
+        "X_eff_bid": 8601623.738977551,
+        "Y_eff_bid": 235643.89121952324,
+        "price_per_token": 0.027493
+    },
+    "NOBODY": {
+        "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+        "symbol": "NOBODY",
+        "decimals": 9,
+        "daily_volume": 449718.7110415805,
+        "X_eff_bid": 41356927.074109875,
+        "Y_eff_bid": 1625631.19419661,
+        "price_per_token": 0.040046
+    },
+    "SIGMA": {
+        "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
+        "symbol": "SIGMA",
+        "decimals": 6,
+        "daily_volume": 437580.32855856325,
+        "X_eff_bid": 40929282.7490533,
+        "Y_eff_bid": 872033.7350701388,
+        "price_per_token": 0.02139
+    },
+    "Anon": {
+        "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+        "symbol": "Anon",
+        "decimals": 9,
+        "daily_volume": 434635.784045016,
+        "X_eff_bid": 24675.177065091237,
+        "Y_eff_bid": 339228.39296541683,
+        "price_per_token": 5.472737
+    },
+    "pwease": {
+        "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+        "symbol": "pwease",
+        "decimals": 6,
+        "daily_volume": 421283.6306635331,
+        "X_eff_bid": 105744598.42951119,
+        "Y_eff_bid": 530899.26594553,
+        "price_per_token": 0.005064
+    },
+    "UFD": {
+        "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "symbol": "UFD",
+        "decimals": 6,
+        "daily_volume": 383267.2352095982,
+        "X_eff_bid": 44586491.219118856,
+        "Y_eff_bid": 1355922.6926643234,
+        "price_per_token": 0.030505
+    },
+    "SNAI": {
+        "address": "Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump",
+        "symbol": "SNAI",
+        "decimals": 6,
+        "daily_volume": 364521.6156366775,
+        "X_eff_bid": 72524478.2957308,
+        "Y_eff_bid": 829196.0288986536,
+        "price_per_token": 0.011436
+    },
+    "BUCK": {
+        "address": "FLqmVrv6cp7icjobpRMQJMEyjF3kF84QmC4HXpySpump",
+        "symbol": "BUCK",
+        "decimals": 6,
+        "daily_volume": 361933.6126437857,
+        "X_eff_bid": 92934784.3089094,
+        "Y_eff_bid": 276283.19131080393,
+        "price_per_token": 0.003008
+    },
+    "MUMU": {
+        "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+        "symbol": "MUMU",
+        "decimals": 6,
+        "daily_volume": 352085.9794193266,
+        "X_eff_bid": 180673118344.58347,
+        "Y_eff_bid": 602051.5650334568,
+        "price_per_token": 3e-06
+    },
+    "Italianrot": {
+        "address": "BQX1cjcRHXmrqNtoFWwmE5bZj7RPneTmqXB979b2pump",
+        "symbol": "Italianrot",
+        "decimals": 6,
+        "daily_volume": 322104.23988680285,
+        "X_eff_bid": 62334815.5668766,
+        "Y_eff_bid": 266989.75536735426,
+        "price_per_token": 0.004137
+    },
+    "pippin": {
+        "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+        "symbol": "pippin",
+        "decimals": 6,
+        "daily_volume": 319127.04991938354,
+        "X_eff_bid": 71069821.79390265,
+        "Y_eff_bid": 1341154.0813714643,
+        "price_per_token": 0.018947
+    },
+    "omni": {
+        "address": "A8vJzs6ygbZQyYLf9FKund8j3pDfUzxBeje8rJiypump",
+        "symbol": "omni",
+        "decimals": 6,
+        "daily_volume": 318519.2265954287,
+        "X_eff_bid": 17771753.724605996,
+        "Y_eff_bid": 5121.983813138997,
+        "price_per_token": 0.000288
+    },
+    "BALL": {
+        "address": "BALLrveijbhu42QaS2XW1pRBYfMji73bGeYJghUvQs6y",
+        "symbol": "BALL",
+        "decimals": 9,
+        "daily_volume": 315353.33297307655,
+        "X_eff_bid": 86250610.67979652,
+        "Y_eff_bid": 136013.06132929143,
+        "price_per_token": 0.002031
+    },
+    "CHEX": {
+        "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+        "symbol": "CHEX",
+        "decimals": 8,
+        "daily_volume": 292240.90551017795,
+        "X_eff_bid": 3627884.6647949526,
+        "Y_eff_bid": 819344.6932858039,
+        "price_per_token": 0.227382
+    },
+    "LSD": {
+        "address": "DDti34vnkrCehR8fih6dTGpPuc3w8tL4XQ4QLQhc3xPa",
+        "symbol": "LSD",
+        "decimals": 9,
+        "daily_volume": 289268.0583014988,
+        "X_eff_bid": 4442936.123176353,
+        "Y_eff_bid": 4839.938584153937,
+        "price_per_token": 0.001089
+    },
+    "SSE": {
+        "address": "H4phNbsqjV5rqk8u6FUACTLB6rNZRTAPGnBb8KXJpump",
+        "symbol": "SSE",
+        "decimals": 6,
+        "daily_volume": 289261.34266964963,
+        "X_eff_bid": 54585657.94962116,
+        "Y_eff_bid": 465849.3717236665,
+        "price_per_token": 0.008465
+    },
+    "GRIFT": {
+        "address": "GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump",
+        "symbol": "GRIFT",
+        "decimals": 6,
+        "daily_volume": 286158.58545044914,
+        "X_eff_bid": 76027756.48753393,
+        "Y_eff_bid": 911108.0286458513,
+        "price_per_token": 0.012099
+    },
+    "DBR": {
+        "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+        "symbol": "DBR",
+        "decimals": 6,
+        "daily_volume": 248492.56760280937,
+        "X_eff_bid": 690083204.717073,
+        "Y_eff_bid": 9614813.240930524,
+        "price_per_token": 0.014127
+    },
+    "BILLY": {
+        "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+        "symbol": "BILLY",
+        "decimals": 6,
+        "daily_volume": 237102.2235790335,
+        "X_eff_bid": 140947329.8835567,
+        "Y_eff_bid": 641232.8680382252,
+        "price_per_token": 0.004581
+    },
+    "moonpig": {
+        "address": "Ai3eKAWjzKMV8wRwd41nVP83yqfbAVJykhvJVPxspump",
+        "symbol": "moonpig",
+        "decimals": 6,
+        "daily_volume": 227768.32024104425,
+        "X_eff_bid": 37394349.02318114,
+        "Y_eff_bid": 685840.7040487962,
+        "price_per_token": 0.018325
+    },
+    "USDUC": {
+        "address": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+        "symbol": "USDUC",
+        "decimals": 6,
+        "daily_volume": 222046.18258560455,
+        "X_eff_bid": 99321201.73533708,
+        "Y_eff_bid": 449879.4490966562,
+        "price_per_token": 0.00459
+    },
+    "KITTY": {
+        "address": "DFfPq2hHbJeunp1F6eNyuyvBHcPpnTqaawn2tAFUpump",
+        "symbol": "KITTY",
+        "decimals": 6,
+        "daily_volume": 213429.59749757583,
+        "X_eff_bid": 46643522.24271377,
+        "Y_eff_bid": 328791.34745378885,
+        "price_per_token": 0.007158
+    },
+    "nub": {
+        "address": "GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn",
+        "symbol": "nub",
+        "decimals": 9,
+        "daily_volume": 207540.91434702417,
+        "X_eff_bid": 110063639.07880914,
+        "Y_eff_bid": 568843.040332596,
+        "price_per_token": 0.005216
+    },
+    "HAMMY": {
+        "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+        "symbol": "HAMMY",
+        "decimals": 6,
+        "daily_volume": 199142.88439980889,
+        "X_eff_bid": 109236704.70494688,
+        "Y_eff_bid": 174632.1572287993,
+        "price_per_token": 0.00161
+    },
+    "BUZZ": {
+        "address": "9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump",
+        "symbol": "BUZZ",
+        "decimals": 6,
+        "daily_volume": 198124.8436309153,
+        "X_eff_bid": 81680981.68456757,
+        "Y_eff_bid": 613297.0656982881,
+        "price_per_token": 0.00759
+    },
+    "swarms": {
+        "address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+        "symbol": "swarms",
+        "decimals": 6,
+        "daily_volume": 197664.5125351544,
+        "X_eff_bid": 422721492.11837226,
+        "Y_eff_bid": 9922385.448133295,
+        "price_per_token": 0.023523
+    },
+    "OLIVIA": {
+        "address": "2fdtCHuvyLcD2q86XZGFmYbDux9ZbbUgMmFhzChqmoon",
+        "symbol": "OLIVIA",
+        "decimals": 9,
+        "daily_volume": 181998.9463447903,
+        "X_eff_bid": 56092515.628011115,
+        "Y_eff_bid": 271292.4668695203,
+        "price_per_token": 0.004949
+    },
+    "CHILLHOUSE": {
+        "address": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
+        "symbol": "CHILLHOUSE",
+        "decimals": 6,
+        "daily_volume": 180666.22482570857,
+        "X_eff_bid": 57113823.56188692,
+        "Y_eff_bid": 450207.9362168015,
+        "price_per_token": 0.007946
+    },
+    "MIRAI": {
+        "address": "5evN2exivZXJfLaA1KhHfiJKWfwH8znqyH36w1SFz89Y",
+        "symbol": "MIRAI",
+        "decimals": 6,
+        "daily_volume": 178947.3716321915,
+        "X_eff_bid": 36075664.55046572,
+        "Y_eff_bid": 524521.9348981449,
+        "price_per_token": 0.01456
+    },
+    "CROWN": {
+        "address": "GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG",
+        "symbol": "CROWN",
+        "decimals": 9,
+        "daily_volume": 177964.42007244413,
+        "X_eff_bid": 4475696.526393532,
+        "Y_eff_bid": 727641.1514843995,
+        "price_per_token": 0.164039
+    },
+    "SCF": {
+        "address": "GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump",
+        "symbol": "SCF",
+        "decimals": 6,
+        "daily_volume": 177007.1827075552,
+        "X_eff_bid": 69740414.4543297,
+        "Y_eff_bid": 560845.1357699436,
+        "price_per_token": 0.00805
+    },
+    "Bert": {
+        "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+        "symbol": "Bert",
+        "decimals": 6,
+        "daily_volume": 175505.25541411655,
+        "X_eff_bid": 24726669.8745682,
+        "Y_eff_bid": 878875.0252726948,
+        "price_per_token": 0.035677
+    },
+    "BITCOIN": {
+        "address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
+        "symbol": "BITCOIN",
+        "decimals": 8,
+        "daily_volume": 165566.20575634544,
+        "X_eff_bid": 3094716.504008239,
+        "Y_eff_bid": 287929.43989280984,
+        "price_per_token": 0.094757
+    },
+    "BUTTCOIN": {
+        "address": "FasH397CeZLNYWkd3wWK9vrmjd1z93n3b59DssRXpump",
+        "symbol": "BUTTCOIN",
+        "decimals": 6,
+        "daily_volume": 165396.81032501286,
+        "X_eff_bid": 126530854.37739256,
+        "Y_eff_bid": 434957.5289126536,
+        "price_per_token": 0.003474
+    },
+    "HARAMBE": {
+        "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+        "symbol": "HARAMBE",
+        "decimals": 9,
+        "daily_volume": 163625.95584068392,
+        "X_eff_bid": 97780077.55843842,
+        "Y_eff_bid": 395941.328636781,
+        "price_per_token": 0.004079
+    },
+    "SKBDI": {
+        "address": "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB",
+        "symbol": "SKBDI",
+        "decimals": 9,
+        "daily_volume": 153215.0355423964,
+        "X_eff_bid": 3756024.7817738065,
+        "Y_eff_bid": 282837.3565939407,
+        "price_per_token": 0.075515
+    },
+    "BRAINLET": {
+        "address": "8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF",
+        "symbol": "BRAINLET",
+        "decimals": 6,
+        "daily_volume": 153053.2045969197,
+        "X_eff_bid": 88352096.86107896,
+        "Y_eff_bid": 216470.0310792573,
+        "price_per_token": 0.002474
+    },
+    "LUMO": {
+        "address": "4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump",
+        "symbol": "LUMO",
+        "decimals": 6,
+        "daily_volume": 151648.09268779034,
+        "X_eff_bid": 113755142.69036385,
+        "Y_eff_bid": 295726.3969494048,
+        "price_per_token": 0.002691
+    },
+    "RNT": {
+        "address": "2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
+        "symbol": "RNT",
+        "decimals": 6,
+        "daily_volume": 142710.80667775113,
+        "X_eff_bid": 157296884.8742096,
+        "Y_eff_bid": 381303.31280001765,
+        "price_per_token": 0.002449
+    },
+    "HYPER": {
+        "address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+        "symbol": "HYPER",
+        "decimals": 6,
+        "daily_volume": 140210.60141944603,
+        "X_eff_bid": 15103099.777466292,
+        "Y_eff_bid": 325293.2274875077,
+        "price_per_token": 0.018863
+    },
+    "TEMA": {
+        "address": "CnfshwmvDqLrB1jSLF7bLJ3iZF5u354WRFGPBmGz4uyf",
+        "symbol": "TEMA",
+        "decimals": 6,
+        "daily_volume": 139692.20934821173,
+        "X_eff_bid": 69363610.49977066,
+        "Y_eff_bid": 184213.5581049355,
+        "price_per_token": 0.002685
+    },
+    "VINE": {
+        "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+        "symbol": "VINE",
+        "decimals": 6,
+        "daily_volume": 139642.00129582215,
+        "X_eff_bid": 375465815.4746971,
+        "Y_eff_bid": 13832020.01158089,
+        "price_per_token": 0.036872
+    },
+    "DOG": {
+        "address": "B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7",
+        "symbol": "DOG",
+        "decimals": 8,
+        "daily_volume": 84880.78462070644,
+        "X_eff_bid": 364527113.9491137,
+        "Y_eff_bid": 505616.50285567105,
+        "price_per_token": 0.001408
+    },
+    "Shoggoth": {
+        "address": "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump",
+        "symbol": "Shoggoth",
+        "decimals": 6,
+        "daily_volume": 136577.7683625621,
+        "X_eff_bid": 118752017.74981223,
+        "Y_eff_bid": 1464328.7385733977,
+        "price_per_token": 0.012894
+    },
+    "YNE": {
+        "address": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
+        "symbol": "YNE",
+        "decimals": 6,
+        "daily_volume": 134912.43427278666,
+        "X_eff_bid": 86031053.66457063,
+        "Y_eff_bid": 310016.1748377459,
+        "price_per_token": 0.003632
+    },
+    "USDe": {
+        "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
+        "symbol": "USDe",
+        "decimals": 9,
+        "daily_volume": 134849.1471438827,
+        "X_eff_bid": 1249122.2250767776,
+        "Y_eff_bid": 1267332.703360135,
+        "price_per_token": 1.000189
+    },
+    "NOS": {
+        "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+        "symbol": "NOS",
+        "decimals": 6,
+        "daily_volume": 129222.56925470056,
+        "X_eff_bid": 1293369.3254034119,
+        "Y_eff_bid": 907253.4347690857,
+        "price_per_token": 0.70259
+    },
+    "GIKO": {
+        "address": "3WPep4ufaToK1aS5s8BL9inzeUrt4DYaQCiic6ZkkC1U",
+        "symbol": "GIKO",
+        "decimals": 9,
+        "daily_volume": 127620.47459059456,
+        "X_eff_bid": 422768.76915233704,
+        "Y_eff_bid": 205794.1864664868,
+        "price_per_token": 0.487438
+    },
+    "NATIX": {
+        "address": "FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX",
+        "symbol": "NATIX",
+        "decimals": 6,
+        "daily_volume": 127443.38913026667,
+        "X_eff_bid": 1162955324.9939284,
+        "Y_eff_bid": 1483541.0389351016,
+        "price_per_token": 0.001297
+    },
+    "GUMMY": {
+        "address": "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+        "symbol": "GUMMY",
+        "decimals": 9,
+        "daily_volume": 120582.17468743931,
+        "X_eff_bid": 151225254.91395938,
+        "Y_eff_bid": 209575.6664702039,
+        "price_per_token": 0.001425
+    },
+    "STONKS": {
+        "address": "6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump",
+        "symbol": "STONKS",
+        "decimals": 6,
+        "daily_volume": 118626.43674529568,
+        "X_eff_bid": 46233585.697020076,
+        "Y_eff_bid": 995292.6535345832,
+        "price_per_token": 0.021588
+    },
+    "DOLAN": {
+        "address": "4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z",
+        "symbol": "DOLAN",
+        "decimals": 6,
+        "daily_volume": 117988.5782940661,
+        "X_eff_bid": 4596109.364567983,
+        "Y_eff_bid": 318631.9123935112,
+        "price_per_token": 0.069532
+    },
+    "jellyjelly": {
+        "address": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+        "symbol": "jellyjelly",
+        "decimals": 6,
+        "daily_volume": 114503.00871289815,
+        "X_eff_bid": 51981120.34934184,
+        "Y_eff_bid": 1390820.5977626585,
+        "price_per_token": 0.026927
+    },
+    "CATANA": {
+        "address": "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",
+        "symbol": "CATANA",
+        "decimals": 6,
+        "daily_volume": 109107.46411196057,
+        "X_eff_bid": 139744853.82369587,
+        "Y_eff_bid": 128151.66618939053,
+        "price_per_token": 0.000929
+    },
+    "ZAILGO": {
+        "address": "GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump",
+        "symbol": "ZAILGO",
+        "decimals": 6,
+        "daily_volume": 105976.60235751672,
+        "X_eff_bid": 126581943.69650124,
+        "Y_eff_bid": 156654.78985031546,
+        "price_per_token": 0.001242
+    },
+    "hehe": {
+        "address": "BreuhVohXX5fv6q41uyb3sojtAuGoGaiAhKBMtcrpump",
+        "symbol": "hehe",
+        "decimals": 6,
+        "daily_volume": 105255.97361282272,
+        "X_eff_bid": 43962990.210685045,
+        "Y_eff_bid": 248009.31520603815,
+        "price_per_token": 0.005676
+    },
+    "HONEY": {
+        "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+        "symbol": "HONEY",
+        "decimals": 9,
+        "daily_volume": 105220.15750882796,
+        "X_eff_bid": 1868735.6350914128,
+        "Y_eff_bid": 64277.51079881975,
+        "price_per_token": 0.026647
+    },
+    "SHDW": {
+        "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+        "symbol": "SHDW",
+        "decimals": 9,
+        "daily_volume": 96314.25872837556,
+        "X_eff_bid": 5756226.635082245,
+        "Y_eff_bid": 597094.1261473675,
+        "price_per_token": 0.10403
+    },
+    "HAPPY": {
+        "address": "HAPPYwgFcjEJDzRtfWE6tiHE9zGdzpNky2FvjPHsvvGZ",
+        "symbol": "HAPPY",
+        "decimals": 9,
+        "daily_volume": 94958.66937170166,
+        "X_eff_bid": 122988046.21218714,
+        "Y_eff_bid": 265054.1370836901,
+        "price_per_token": 0.002174
+    },
+    "AGiXT": {
+        "address": "F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump",
+        "symbol": "AGiXT",
+        "decimals": 6,
+        "daily_volume": 94276.98642938623,
+        "X_eff_bid": 78194130.60429484,
+        "Y_eff_bid": 232328.00470332368,
+        "price_per_token": 0.002999
+    },
+    "MOTHER": {
+        "address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+        "symbol": "MOTHER",
+        "decimals": 6,
+        "daily_volume": 92279.50941633253,
+        "X_eff_bid": 76857171.94931495,
+        "Y_eff_bid": 814491.7627565805,
+        "price_per_token": 0.010635
+    },
+    "WYAC": {
+        "address": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
+        "symbol": "WYAC",
+        "decimals": 6,
+        "daily_volume": 91612.26551352024,
+        "X_eff_bid": 59577532.570432186,
+        "Y_eff_bid": 181422.77784329109,
+        "price_per_token": 0.003077
+    },
+    "AVO": {
+        "address": "GdZ9rwHyKcriLdbSzhtEFLe5MLs7Vk6AY1aE5ei7nsmP",
+        "symbol": "AVO",
+        "decimals": 9,
+        "daily_volume": 90782.63265922852,
+        "X_eff_bid": 126164399.29052596,
+        "Y_eff_bid": 190581.13517197876,
+        "price_per_token": 0.001532
+    },
+    "PENG": {
+        "address": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+        "symbol": "PENG",
+        "decimals": 6,
+        "daily_volume": 88915.35251068816,
+        "X_eff_bid": 12522772.562047739,
+        "Y_eff_bid": 226568.87251587628,
+        "price_per_token": 0.018145
+    },
+    "jam": {
+        "address": "51zudBR4NmATG35goida4dLQH5YPn9k8hVkLcizNpump",
+        "symbol": "jam",
+        "decimals": 6,
+        "daily_volume": 88844.43128439489,
+        "X_eff_bid": 151847452.88622454,
+        "Y_eff_bid": 75012.22395880168,
+        "price_per_token": 0.000496
+    },
+    "G": {
+        "address": "8iFREvVdmLKxVeibpC5VLRr1S6X5dm7gYR3VCU1wpump",
+        "symbol": "G",
+        "decimals": 6,
+        "daily_volume": 88577.5448113607,
+        "X_eff_bid": 35922668.852442265,
+        "Y_eff_bid": 120860.08071724001,
+        "price_per_token": 0.003396
+    },
+    "Butthole": {
+        "address": "CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
+        "symbol": "Butthole",
+        "decimals": 6,
+        "daily_volume": 87738.04554621593,
+        "X_eff_bid": 90099328.43930158,
+        "Y_eff_bid": 412051.1518506702,
+        "price_per_token": 0.004606
+    },
+    "STNK": {
+        "address": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+        "symbol": "STNK",
+        "decimals": 9,
+        "daily_volume": 86890.3624051818,
+        "X_eff_bid": 18063.530600421273,
+        "Y_eff_bid": 306440.1916188162,
+        "price_per_token": 16.964651
+    },
+    "ATLAS": {
+        "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+        "symbol": "ATLAS",
+        "decimals": 8,
+        "daily_volume": 86176.53491196777,
+        "X_eff_bid": 239542274.8893161,
+        "Y_eff_bid": 253224.4306361987,
+        "price_per_token": 0.00112
+    },
+    "FAT": {
+        "address": "5LJMJyR8MtAkbtpf8kFUV7S9oFG3xaGDdcnFxYt9pump",
+        "symbol": "FAT",
+        "decimals": 6,
+        "daily_volume": 85531.56331109593,
+        "X_eff_bid": 48588907.5722719,
+        "Y_eff_bid": 239379.7851459633,
+        "price_per_token": 0.00496
+    },
+    "MOBILE": {
+        "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+        "symbol": "MOBILE",
+        "decimals": 6,
+        "daily_volume": 85341.94153326722,
+        "X_eff_bid": 39757662.62433627,
+        "Y_eff_bid": 17330.047439075384,
+        "price_per_token": 0.000369
+    },
+    "FRED": {
+        "address": "CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump",
+        "symbol": "FRED",
+        "decimals": 6,
+        "daily_volume": 85337.30859967615,
+        "X_eff_bid": 123743271.31045052,
+        "Y_eff_bid": 584904.0351551973,
+        "price_per_token": 0.004763
+    },
+    "BLOCK": {
+        "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+        "symbol": "BLOCK",
+        "decimals": 6,
+        "daily_volume": 83419.32236455067,
+        "X_eff_bid": 8754590.879087355,
+        "Y_eff_bid": 632571.6807361074,
+        "price_per_token": 0.072452
+    },
+    "NEON": {
+        "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+        "symbol": "NEON",
+        "decimals": 9,
+        "daily_volume": 83351.09239513197,
+        "X_eff_bid": 3794182.13788535,
+        "Y_eff_bid": 436456.43036211113,
+        "price_per_token": 0.116627
+    },
+    "GFM": {
+        "address": "E1jCTXdkMRoawoWoqfbhiNkkLbxcSHPssMo36U84pump",
+        "symbol": "GFM",
+        "decimals": 6,
+        "daily_volume": 77511.5493223904,
+        "X_eff_bid": 106522030.9074673,
+        "Y_eff_bid": 232905.20402308472,
+        "price_per_token": 0.002207
+    },
+    "DADDY": {
+        "address": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
+        "symbol": "DADDY",
+        "decimals": 6,
+        "daily_volume": 76879.68254375759,
+        "X_eff_bid": 26007604.162360486,
+        "Y_eff_bid": 981340.8796508233,
+        "price_per_token": 0.0379
+    },
+    "real": {
+        "address": "Cy4DSbZW4CE6cG6HDqQFhXxpHTdm41SY9hBB1JG6pump",
+        "symbol": "real",
+        "decimals": 6,
+        "daily_volume": 75893.32322265595,
+        "X_eff_bid": 204216008.02732423,
+        "Y_eff_bid": 40839.989371129675,
+        "price_per_token": 0.0002
+    },
+    "Stupid": {
+        "address": "9RjwNo6hBPkxayWHCqQD1VjaH8igSizEseNZNbddpump",
+        "symbol": "Stupid",
+        "decimals": 6,
+        "daily_volume": 74068.34395156919,
+        "X_eff_bid": 187993289.17105034,
+        "Y_eff_bid": 152585.93619914795,
+        "price_per_token": 0.000815
+    },
+    "wDOG": {
+        "address": "GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump",
+        "symbol": "wDOG",
+        "decimals": 6,
+        "daily_volume": 71207.99666777396,
+        "X_eff_bid": 208572349.81123617,
+        "Y_eff_bid": 174534.54626629228,
+        "price_per_token": 0.000841
+    },
+    "RFC": {
+        "address": "C3DwDjT17gDvvCYC2nsdGHxDHVmQRdhKfpAdqQ29pump",
+        "symbol": "RFC",
+        "decimals": 6,
+        "daily_volume": 68729.72559147024,
+        "X_eff_bid": 86175648.54654172,
+        "Y_eff_bid": 871612.3367521786,
+        "price_per_token": 0.010124
+    },
+    "HABIBI": {
+        "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46",
+        "symbol": "HABIBI",
+        "decimals": 6,
+        "daily_volume": 68572.32665174798,
+        "X_eff_bid": 44613459.9049737,
+        "Y_eff_bid": 187268.09280600952,
+        "price_per_token": 0.004231
+    },
+    "alpha": {
+        "address": "2zrH2jE542mzB4HABgBjdWMQPtNC5H12pwo1iLpfpump",
+        "symbol": "alpha",
+        "decimals": 6,
+        "daily_volume": 66329.37368884122,
+        "X_eff_bid": 209292083.88015413,
+        "Y_eff_bid": 74470.31715185527,
+        "price_per_token": 0.000357
+    },
+    "SEND": {
+        "address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+        "symbol": "SEND",
+        "decimals": 6,
+        "daily_volume": 64952.47554106148,
+        "X_eff_bid": 39558695.30019206,
+        "Y_eff_bid": 753644.2962685357,
+        "price_per_token": 0.019213
+    },
+    "Aimonica": {
+        "address": "FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5",
+        "symbol": "Aimonica",
+        "decimals": 6,
+        "daily_volume": 62528.50898056675,
+        "X_eff_bid": 49952345.87642158,
+        "Y_eff_bid": 168446.55218430108,
+        "price_per_token": 0.00347
+    },
+    "CAR": {
+        "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+        "symbol": "CAR",
+        "decimals": 6,
+        "daily_volume": 60838.25106446017,
+        "X_eff_bid": 14315082.827114517,
+        "Y_eff_bid": 802052.5917990381,
+        "price_per_token": 0.056206
+    },
+    "LLM": {
+        "address": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
+        "symbol": "LLM",
+        "decimals": 6,
+        "daily_volume": 60377.388377898744,
+        "X_eff_bid": 138253350.72366297,
+        "Y_eff_bid": 296169.1645235359,
+        "price_per_token": 0.002163
+    },
+    "jailstool": {
+        "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+        "symbol": "jailstool",
+        "decimals": 6,
+        "daily_volume": 58275.54752819962,
+        "X_eff_bid": 138618493.42078647,
+        "Y_eff_bid": 572479.266664968,
+        "price_per_token": 0.004161
+    },
+    "MTN": {
+        "address": "mtnc7NNSpAJuvYNmayXU63WhWZGgFzwQ2yeYWqemeta",
+        "symbol": "MTN",
+        "decimals": 6,
+        "daily_volume": 57309.60150938981,
+        "X_eff_bid": 1107601.2501635626,
+        "Y_eff_bid": 531106.059316426,
+        "price_per_token": 0.466686
+    },
+    "J": {
+        "address": "Jambjx1oJoZNBZiqbiF9TqgatEZPdyfvYa9WVsKNzUh",
+        "symbol": "J",
+        "decimals": 9,
+        "daily_volume": 55873.30663870308,
+        "X_eff_bid": 1561807.9703358542,
+        "Y_eff_bid": 276413.80261505034,
+        "price_per_token": 0.174362
+    },
+    "GMT": {
+        "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+        "symbol": "GMT",
+        "decimals": 9,
+        "daily_volume": 55381.49955284625,
+        "X_eff_bid": 6988863.329056612,
+        "Y_eff_bid": 377599.24761864636,
+        "price_per_token": 0.053748
+    },
+    "PURPE": {
+        "address": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
+        "symbol": "PURPE",
+        "decimals": 1,
+        "daily_volume": 54101.13548351321,
+        "X_eff_bid": 9774861671.375214,
+        "Y_eff_bid": 553806.0412758689,
+        "price_per_token": 5.1e-05
+    },
+    "CHONKY": {
+        "address": "H7ed7UgcLp3ax4X1CQ5WuWDn6d1pprfMMYiv5ejwLWWU",
+        "symbol": "CHONKY",
+        "decimals": 6,
+        "daily_volume": 52964.69538134486,
+        "X_eff_bid": 65065977107.308975,
+        "Y_eff_bid": 190941.99403128348,
+        "price_per_token": 2e-06
+    },
+    "GNON": {
+        "address": "HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump",
+        "symbol": "GNON",
+        "decimals": 6,
+        "daily_volume": 52776.470969457514,
+        "X_eff_bid": 168069338.52060404,
+        "Y_eff_bid": 326283.44372330996,
+        "price_per_token": 0.001959
+    },
+    "GEOD": {
+        "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+        "symbol": "GEOD",
+        "decimals": 9,
+        "daily_volume": 52545.91780673156,
+        "X_eff_bid": 693333.9624613025,
+        "Y_eff_bid": 172748.23343991683,
+        "price_per_token": 0.215307
+    },
+    "COOK": {
+        "address": "G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n",
+        "symbol": "COOK",
+        "decimals": 6,
+        "daily_volume": 51365.381460208715,
+        "X_eff_bid": 140240900.607886,
+        "Y_eff_bid": 75645.8584930597,
+        "price_per_token": 0.000546
+    },
+    "CANDLE": {
+        "address": "A8bcY1eSenMiMy75vgSnp6ShMfWHRHjeM6JxfM1CNDL",
+        "symbol": "CANDLE",
+        "decimals": 6,
+        "daily_volume": 50536.48418675984,
+        "X_eff_bid": 866794205.5675462,
+        "Y_eff_bid": 1186614.8028249831,
+        "price_per_token": 0.00138
+    },
+    "Boopa": {
+        "address": "JmMRbLcKgNCu17yHZDAn4strE5NjmWJ4pCeJ7s7boop",
+        "symbol": "Boopa",
+        "decimals": 9,
+        "daily_volume": 49310.69859193333,
+        "X_eff_bid": 79423556.2131859,
+        "Y_eff_bid": 57813.80266244807,
+        "price_per_token": 0.00073
+    },
+    "TANK": {
+        "address": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",
+        "symbol": "TANK",
+        "decimals": 6,
+        "daily_volume": 48646.70264114871,
+        "X_eff_bid": 114465040.45161018,
+        "Y_eff_bid": 215528.28804873448,
+        "price_per_token": 0.001911
+    },
+    "POLIS": {
+        "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+        "symbol": "POLIS",
+        "decimals": 8,
+        "daily_volume": 47344.969599314834,
+        "X_eff_bid": 3409164.3275904353,
+        "Y_eff_bid": 204018.76399561507,
+        "price_per_token": 0.060157
+    },
+    "toly": {
+        "address": "JCeoBX79HfatfaY6xvuNyCHf86hwgkCCWDpEycVHtime",
+        "symbol": "toly",
+        "decimals": 6,
+        "daily_volume": 46675.54325666548,
+        "X_eff_bid": 8680.019614399009,
+        "Y_eff_bid": 251886.62225017673,
+        "price_per_token": 29.375924
+    },
+    "nuit": {
+        "address": "2eXamy7t3kvKhfV6aJ6Uwe3eh8cuREFcTKs1mFKZpump",
+        "symbol": "nuit",
+        "decimals": 6,
+        "daily_volume": 46186.911711259934,
+        "X_eff_bid": 74439113.08635052,
+        "Y_eff_bid": 216263.7953193154,
+        "price_per_token": 0.002944
+    },
+    "DARK": {
+        "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
+        "symbol": "DARK",
+        "decimals": 6,
+        "daily_volume": 46186.67277499039,
+        "X_eff_bid": 67213680.96028247,
+        "Y_eff_bid": 399272.0751582122,
+        "price_per_token": 0.00583
+    },
+    "HAT": {
+        "address": "AxGAbdFtdbj2oNXa4dKqFvwHzgFtW9mFHWmd7vQfpump",
+        "symbol": "HAT",
+        "decimals": 6,
+        "daily_volume": 45818.582647895215,
+        "X_eff_bid": 76706006.40138225,
+        "Y_eff_bid": 229425.0146363923,
+        "price_per_token": 0.003022
+    },
+    "ASS": {
+        "address": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+        "symbol": "ASS",
+        "decimals": 6,
+        "daily_volume": 45260.55501579476,
+        "X_eff_bid": 60500252.432172306,
+        "Y_eff_bid": 199351.00851242407,
+        "price_per_token": 0.003192
+    },
+    "SAMO": {
+        "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "symbol": "SAMO",
+        "decimals": 9,
+        "daily_volume": 45258.48459455944,
+        "X_eff_bid": 195660820.60986245,
+        "Y_eff_bid": 500668.0820302648,
+        "price_per_token": 0.00299
+    },
+    "TRISIG": {
+        "address": "BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump",
+        "symbol": "TRISIG",
+        "decimals": 6,
+        "daily_volume": 44504.228080918656,
+        "X_eff_bid": 82538630.10208683,
+        "Y_eff_bid": 179369.80203423122,
+        "price_per_token": 0.002185
+    },
+    "MemesAI": {
+        "address": "39qibQxVzemuZTEvjSB7NePhw9WyyHdQCqP8xmBMpump",
+        "symbol": "MemesAI",
+        "decimals": 6,
+        "daily_volume": 43769.67561910176,
+        "X_eff_bid": 135564623.49796194,
+        "Y_eff_bid": 358968.46135824244,
+        "price_per_token": 0.002674
+    },
+    "NPC": {
+        "address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
+        "symbol": "NPC",
+        "decimals": 8,
+        "daily_volume": 43091.86277360071,
+        "X_eff_bid": 28590662.750499647,
+        "Y_eff_bid": 423995.3765772613,
+        "price_per_token": 0.014874
+    },
+    "LIKE": {
+        "address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+        "symbol": "LIKE",
+        "decimals": 9,
+        "daily_volume": 41277.51133710562,
+        "X_eff_bid": 25930077.12367966,
+        "Y_eff_bid": 355064.4809131961,
+        "price_per_token": 0.013791
+    },
+    "EPIK": {
+        "address": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw",
+        "symbol": "EPIK",
+        "decimals": 6,
+        "daily_volume": 41100.251991805424,
+        "X_eff_bid": 65453595.70994697,
+        "Y_eff_bid": 254639.49306107417,
+        "price_per_token": 0.003923
+    },
+    "STAN": {
+        "address": "CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC",
+        "symbol": "STAN",
+        "decimals": 5,
+        "daily_volume": 41093.46268797272,
+        "X_eff_bid": 109213252.74670334,
+        "Y_eff_bid": 125013.5379512113,
+        "price_per_token": 0.001153
+    },
+    "vvaifu": {
+        "address": "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",
+        "symbol": "vvaifu",
+        "decimals": 6,
+        "daily_volume": 40519.11796174106,
+        "X_eff_bid": 102082406.37735331,
+        "Y_eff_bid": 373339.5264519046,
+        "price_per_token": 0.00369
+    },
+    "PESTO": {
+        "address": "34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump",
+        "symbol": "PESTO",
+        "decimals": 6,
+        "daily_volume": 37788.22614304049,
+        "X_eff_bid": 216114854.46794832,
+        "Y_eff_bid": 190547.47983634,
+        "price_per_token": 0.001118
+    },
+    "Project89": {
+        "address": "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump",
+        "symbol": "Project89",
+        "decimals": 6,
+        "daily_volume": 36730.89729202442,
+        "X_eff_bid": 117024200.16741309,
+        "Y_eff_bid": 327879.51731066755,
+        "price_per_token": 0.002834
+    },
+    "WHISP": {
+        "address": "whispF7G9DHaojYHe2cdhRX5EMJzGBdqq7R57kL6inL",
+        "symbol": "WHISP",
+        "decimals": 6,
+        "daily_volume": 36435.651895936106,
+        "X_eff_bid": 177140022.9316942,
+        "Y_eff_bid": 131192.25055056874,
+        "price_per_token": 0.000744
+    },
+    "degenai": {
+        "address": "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",
+        "symbol": "degenai",
+        "decimals": 6,
+        "daily_volume": 35586.0217885171,
+        "X_eff_bid": 92372128.71969058,
+        "Y_eff_bid": 354629.0311389395,
+        "price_per_token": 0.003872
+    },
+    "BARSIK": {
+        "address": "7ZqzGzTNg5tjK1CHTBdGFHyKjBtXdfvAobuGgdt4pump",
+        "symbol": "BARSIK",
+        "decimals": 6,
+        "daily_volume": 34813.30479887215,
+        "X_eff_bid": 102201430.92814049,
+        "Y_eff_bid": 147929.4454183219,
+        "price_per_token": 0.001456
+    },
+    "PUPS": {
+        "address": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
+        "symbol": "PUPS",
+        "decimals": 9,
+        "daily_volume": 34712.681550569985,
+        "X_eff_bid": 7617387.846754899,
+        "Y_eff_bid": 176705.95700524992,
+        "price_per_token": 0.023428
+    },
+    "neet": {
+        "address": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+        "symbol": "neet",
+        "decimals": 6,
+        "daily_volume": 34168.535483617576,
+        "X_eff_bid": 64899991.20463059,
+        "Y_eff_bid": 285971.9034569028,
+        "price_per_token": 0.004428
+    },
+    "IMG": {
+        "address": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh",
+        "symbol": "IMG",
+        "decimals": 6,
+        "daily_volume": 33626.978388425676,
+        "X_eff_bid": 49864484.66049365,
+        "Y_eff_bid": 234440.94589283253,
+        "price_per_token": 0.004734
+    },
+    "NEUR": {
+        "address": "3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
+        "symbol": "NEUR",
+        "decimals": 6,
+        "daily_volume": 33124.09046734591,
+        "X_eff_bid": 128469282.75569744,
+        "Y_eff_bid": 242301.8845251624,
+        "price_per_token": 0.001923
+    },
+    "GRPH": {
+        "address": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+        "symbol": "GRPH",
+        "decimals": 6,
+        "daily_volume": 32990.789860590376,
+        "X_eff_bid": 89359301.16164325,
+        "Y_eff_bid": 357801.293416554,
+        "price_per_token": 0.004051
+    },
+    "RBT": {
+        "address": "65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf",
+        "symbol": "RBT",
+        "decimals": 6,
+        "daily_volume": 32892.026145320095,
+        "X_eff_bid": 46244883078.56738,
+        "Y_eff_bid": 179462.48382579826,
+        "price_per_token": 4e-06
+    },
+    "UBC": {
+        "address": "9psiRdn9cXYVps4F1kFuoNjd2EtmqNJXrCPmRppJpump",
+        "symbol": "UBC",
+        "decimals": 6,
+        "daily_volume": 32642.54535583376,
+        "X_eff_bid": 184746897.0911025,
+        "Y_eff_bid": 134104.89587895854,
+        "price_per_token": 0.000729
+    },
+    "NST": {
+        "address": "G7iK3prSzAA4vzcJWvsLUEsdCqzR7PnMzJV61vSdFSNW",
+        "symbol": "NST",
+        "decimals": 8,
+        "daily_volume": 32083.42972810007,
+        "X_eff_bid": 68427.96962259407,
+        "Y_eff_bid": 205827.36870245743,
+        "price_per_token": 3.019316
+    },
+    "FUCKCOIN": {
+        "address": "Cz75ZtjwgZmr5J1VDBRTm5ZybZvEFR5DEdb8hEy59pWq",
+        "symbol": "FUCKCOIN",
+        "decimals": 6,
+        "daily_volume": 31962.314593502382,
+        "X_eff_bid": 48670448.3241449,
+        "Y_eff_bid": 326114.6589779566,
+        "price_per_token": 0.006743
+    },
+    "DUKO": {
+        "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9",
+        "symbol": "DUKO",
+        "decimals": 6,
+        "daily_volume": 31520.806976840155,
+        "X_eff_bid": 918108001.6606349,
+        "Y_eff_bid": 242795.71945577665,
+        "price_per_token": 0.000265
+    },
+    "REALIS": {
+        "address": "EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump",
+        "symbol": "REALIS",
+        "decimals": 6,
+        "daily_volume": 31186.075791010648,
+        "X_eff_bid": 78233473.59841381,
+        "Y_eff_bid": 219589.3941862281,
+        "price_per_token": 0.002837
+    },
+    "MAD": {
+        "address": "madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv",
+        "symbol": "MAD",
+        "decimals": 6,
+        "daily_volume": 30746.292047292984,
+        "X_eff_bid": 48767289270.968544,
+        "Y_eff_bid": 263373.739640907,
+        "price_per_token": 5e-06
+    },
+    "USEDCAR": {
+        "address": "9gwTegFJJErDpWJKjPfLr2g2zrE3nL1v5zpwbtsk3c6P",
+        "symbol": "USEDCAR",
+        "decimals": 9,
+        "daily_volume": 30670.59471084631,
+        "X_eff_bid": 55781126.307979055,
+        "Y_eff_bid": 124120.52760170956,
+        "price_per_token": 0.002243
+    },
+    "LOL": {
+        "address": "LoL1RDQiUfifC2BX28xaef6r2G8ES8SEzgrzThJemMv",
+        "symbol": "LOL",
+        "decimals": 6,
+        "daily_volume": 30325.980142644217,
+        "X_eff_bid": 61979185.87760827,
+        "Y_eff_bid": 231135.83970728985,
+        "price_per_token": 0.003771
+    }
+}

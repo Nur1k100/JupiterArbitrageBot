@@ -1,0 +1,1550 @@
+{
+    "JLP": {
+        "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+        "symbol": "JLP",
+        "decimals": 6,
+        "daily_volume": 56924850.05001315,
+        "X_eff_ask": 2896798.3418736323,
+        "Y_eff_ask": 628814.2994733221,
+        "price_per_token": 4.608667
+    },
+    "JitoSOL": {
+        "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "symbol": "JitoSOL",
+        "decimals": 9,
+        "daily_volume": 40026657.892080754,
+        "X_eff_ask": 189717268.25853547,
+        "Y_eff_ask": 951681.2293566678,
+        "price_per_token": 199.180028
+    },
+    "mSOL": {
+        "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "symbol": "mSOL",
+        "decimals": 9,
+        "daily_volume": 36993454.4721344,
+        "X_eff_ask": 11851547.891499039,
+        "Y_eff_ask": 55286.1997162162,
+        "price_per_token": 214.276342
+    },
+    "aura": {
+        "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+        "symbol": "aura",
+        "decimals": 6,
+        "daily_volume": 23880035.92293179,
+        "X_eff_ask": 1501728.505867524,
+        "Y_eff_ask": 28022661.217658196,
+        "price_per_token": 0.053508
+    },
+    "LAUNCHCOIN": {
+        "address": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+        "symbol": "LAUNCHCOIN",
+        "decimals": 9,
+        "daily_volume": 21702205.227423735,
+        "X_eff_ask": 12385055.161717156,
+        "Y_eff_ask": 53872876.650385775,
+        "price_per_token": 0.225229
+    },
+    "INF": {
+        "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+        "symbol": "INF",
+        "decimals": 9,
+        "daily_volume": 16069993.177729134,
+        "X_eff_ask": 2221441.298988842,
+        "Y_eff_ask": 10119.594202595377,
+        "price_per_token": 219.543421
+    },
+    "WBTC": {
+        "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "daily_volume": 15143776.135053797,
+        "X_eff_ask": 23633884.038563296,
+        "Y_eff_ask": 216.74598191051004,
+        "price_per_token": 109140.028973
+    },
+    "CryBB": {
+        "address": "FP2XnGpqP5opNZujB6KPpXYWSAwq7BbTUVUnRij1bonk",
+        "symbol": "CryBB",
+        "decimals": 6,
+        "daily_volume": 10674780.066264322,
+        "X_eff_ask": 203085.13268249208,
+        "Y_eff_ask": 18002481.36992713,
+        "price_per_token": 0.01124
+    },
+    "Verse": {
+        "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+        "symbol": "Verse",
+        "decimals": 6,
+        "daily_volume": 7893771.59553849,
+        "X_eff_ask": 1633227.2368334103,
+        "Y_eff_ask": 3814832.6419294104,
+        "price_per_token": 0.426474
+    },
+    "USDG": {
+        "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+        "symbol": "USDG",
+        "decimals": 6,
+        "daily_volume": 7624871.983778873,
+        "X_eff_ask": 1113689525.2563415,
+        "Y_eff_ask": 1113605071.8765101,
+        "price_per_token": 1.000048
+    },
+    "USELESS": {
+        "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+        "symbol": "USELESS",
+        "decimals": 6,
+        "daily_volume": 6257303.231571807,
+        "X_eff_ask": 1006538.8827183102,
+        "Y_eff_ask": 22903531.017354023,
+        "price_per_token": 0.043608
+    },
+    "LABUBU": {
+        "address": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+        "symbol": "LABUBU",
+        "decimals": 6,
+        "daily_volume": 5643857.411176271,
+        "X_eff_ask": 1224663.0517157037,
+        "Y_eff_ask": 24342211.108436834,
+        "price_per_token": 0.050353
+    },
+    "KMNO": {
+        "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+        "symbol": "KMNO",
+        "decimals": 6,
+        "daily_volume": 4344301.056273047,
+        "X_eff_ask": 2841614.48697892,
+        "Y_eff_ask": 42420575.82631472,
+        "price_per_token": 0.067368
+    },
+    "ZEX": {
+        "address": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
+        "symbol": "ZEX",
+        "decimals": 6,
+        "daily_volume": 4077946.9339890303,
+        "X_eff_ask": 599222.2208916873,
+        "Y_eff_ask": 4477887.317025514,
+        "price_per_token": 0.134012
+    },
+    "KLED": {
+        "address": "1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm",
+        "symbol": "KLED",
+        "decimals": 9,
+        "daily_volume": 3992527.274150968,
+        "X_eff_ask": 1741837.7536749959,
+        "Y_eff_ask": 60686470.87224353,
+        "price_per_token": 0.02792
+    },
+    "PYUSD": {
+        "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+        "symbol": "PYUSD",
+        "decimals": 6,
+        "daily_volume": 2817015.196010004,
+        "X_eff_ask": 1670331995.6950107,
+        "Y_eff_ask": 1670673418.0973234,
+        "price_per_token": 0.999858
+    },
+    "GIGA": {
+        "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+        "symbol": "GIGA",
+        "decimals": 5,
+        "daily_volume": 2788472.0794871203,
+        "X_eff_ask": 4586166.924096999,
+        "Y_eff_ask": 167416821.8645079,
+        "price_per_token": 0.027207
+    },
+    "AUSD": {
+        "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+        "symbol": "AUSD",
+        "decimals": 6,
+        "daily_volume": 2009439.008660756,
+        "X_eff_ask": 1451723422.6654103,
+        "Y_eff_ask": 1452473338.5396507,
+        "price_per_token": 1.000001
+    },
+    "FWOG": {
+        "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+        "symbol": "FWOG",
+        "decimals": 6,
+        "daily_volume": 1847763.0179914543,
+        "X_eff_ask": 2747661.0449201637,
+        "Y_eff_ask": 41883925.474673,
+        "price_per_token": 0.065691
+    },
+    "Hosico": {
+        "address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+        "symbol": "Hosico",
+        "decimals": 6,
+        "daily_volume": 1730982.16145521,
+        "X_eff_ask": 496545.3405351968,
+        "Y_eff_ask": 27723246.458918836,
+        "price_per_token": 0.017854
+    },
+    "DIS": {
+        "address": "2AEU9yWk3dEGnVwRaKv4div5TarC4dn7axFLyz6zG4Pf",
+        "symbol": "DIS",
+        "decimals": 9,
+        "daily_volume": 1474079.878903461,
+        "X_eff_ask": 1517731.7886932427,
+        "Y_eff_ask": 90486639.17012715,
+        "price_per_token": 0.016706
+    },
+    "PCULE": {
+        "address": "J27UYHX5oeaG1YbUGQc8BmJySXDjNWChdGB2Pi2TMDAq",
+        "symbol": "PCULE",
+        "decimals": 9,
+        "daily_volume": 1465187.395756162,
+        "X_eff_ask": 1981328.5408038574,
+        "Y_eff_ask": 190461408.98323292,
+        "price_per_token": 0.00972
+    },
+    "titcoin": {
+        "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+        "symbol": "titcoin",
+        "decimals": 6,
+        "daily_volume": 1446622.944364261,
+        "X_eff_ask": 849931.443634491,
+        "Y_eff_ask": 42473410.3356146,
+        "price_per_token": 0.020169
+    },
+    "MOODENG": {
+        "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+        "symbol": "MOODENG",
+        "decimals": 6,
+        "daily_volume": 1386019.9400049068,
+        "X_eff_ask": 2726698.8129324378,
+        "Y_eff_ask": 13583794.401881553,
+        "price_per_token": 0.203932
+    },
+    "FDUSD": {
+        "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+        "symbol": "FDUSD",
+        "decimals": 6,
+        "daily_volume": 1354026.914352469,
+        "X_eff_ask": 1204465167.5799522,
+        "Y_eff_ask": 1205976268.470566,
+        "price_per_token": 0.998938
+    },
+    "LOCKIN": {
+        "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+        "symbol": "LOCKIN",
+        "decimals": 9,
+        "daily_volume": 1332537.3706745273,
+        "X_eff_ask": 519134.4244734223,
+        "Y_eff_ask": 39745008.63414052,
+        "price_per_token": 0.013097
+    },
+    "GOONC": {
+        "address": "ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb",
+        "symbol": "GOONC",
+        "decimals": 9,
+        "daily_volume": 1316824.682764185,
+        "X_eff_ask": 723437.008824756,
+        "Y_eff_ask": 111611289.25829352,
+        "price_per_token": 0.006413
+    },
+    "PYTHIA": {
+        "address": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+        "symbol": "PYTHIA",
+        "decimals": 6,
+        "daily_volume": 1263676.171318503,
+        "X_eff_ask": 20094753.36291241,
+        "Y_eff_ask": 701548072.4986318,
+        "price_per_token": 0.028617
+    },
+    "bSOL": {
+        "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "symbol": "bSOL",
+        "decimals": 9,
+        "daily_volume": 1100690.8826670807,
+        "X_eff_ask": 277317.3964320196,
+        "Y_eff_ask": 1376.5614758881384,
+        "price_per_token": 201.74951
+    },
+    "ALON": {
+        "address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+        "symbol": "ALON",
+        "decimals": 6,
+        "daily_volume": 1089252.6720545397,
+        "X_eff_ask": 692205.0250016883,
+        "Y_eff_ask": 48865553.008195624,
+        "price_per_token": 0.014174
+    },
+    "USA": {
+        "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+        "symbol": "USA",
+        "decimals": 6,
+        "daily_volume": 1029598.7343958892,
+        "X_eff_ask": 49942.25940848067,
+        "Y_eff_ask": 29999682158.25079,
+        "price_per_token": 1e-06
+    },
+    "EURC": {
+        "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+        "symbol": "EURC",
+        "decimals": 6,
+        "daily_volume": 1000448.2403426478,
+        "X_eff_ask": 330747106.74144566,
+        "Y_eff_ask": 288712073.2926081,
+        "price_per_token": 1.143305
+    },
+    "CLOUD": {
+        "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+        "symbol": "CLOUD",
+        "decimals": 9,
+        "daily_volume": 838345.2784025555,
+        "X_eff_ask": 2977894.512681618,
+        "Y_eff_ask": 21345048.022800688,
+        "price_per_token": 0.13926
+    },
+    "NYLA": {
+        "address": "3HeUeL8ru8DFfRRQGnE11vGrDdNUzqVwBW8hyYHBbonk",
+        "symbol": "NYLA",
+        "decimals": 6,
+        "daily_volume": 761054.4962364658,
+        "X_eff_ask": 159363.13616660965,
+        "Y_eff_ask": 31859075.1667123,
+        "price_per_token": 0.00512
+    },
+    "MPLX": {
+        "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+        "symbol": "MPLX",
+        "decimals": 6,
+        "daily_volume": 754215.8927570676,
+        "X_eff_ask": 4385307.480268419,
+        "Y_eff_ask": 32791381.140915014,
+        "price_per_token": 0.133711
+    },
+    "HNT": {
+        "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+        "symbol": "HNT",
+        "decimals": 8,
+        "daily_volume": 705905.5504483083,
+        "X_eff_ask": 2832039.5956189153,
+        "Y_eff_ask": 965471.4799203527,
+        "price_per_token": 2.922555
+    },
+    "RETARDIO": {
+        "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+        "symbol": "RETARDIO",
+        "decimals": 6,
+        "daily_volume": 667211.5813196482,
+        "X_eff_ask": 915926.0087739999,
+        "Y_eff_ask": 34994236.0624213,
+        "price_per_token": 0.026138
+    },
+    "MOBY": {
+        "address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+        "symbol": "MOBY",
+        "decimals": 6,
+        "daily_volume": 650207.9860733988,
+        "X_eff_ask": 551819.4869576544,
+        "Y_eff_ask": 43167347.71298928,
+        "price_per_token": 0.012664
+    },
+    "bbSOL": {
+        "address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+        "symbol": "bbSOL",
+        "decimals": 9,
+        "daily_volume": 632433.2174747771,
+        "X_eff_ask": 560193745.07226,
+        "Y_eff_ask": 3119721.003006602,
+        "price_per_token": 179.195358
+    },
+    "DUPE": {
+        "address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+        "symbol": "DUPE",
+        "decimals": 9,
+        "daily_volume": 617095.6847369231,
+        "X_eff_ask": 360808.74519311386,
+        "Y_eff_ask": 20871267.902591664,
+        "price_per_token": 0.016982
+    },
+    "MNDE": {
+        "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "symbol": "MNDE",
+        "decimals": 9,
+        "daily_volume": 604230.8235003757,
+        "X_eff_ask": 1832030.759535012,
+        "Y_eff_ask": 12808154.8499931,
+        "price_per_token": 0.142231
+    },
+    "MLG": {
+        "address": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+        "symbol": "MLG",
+        "decimals": 6,
+        "daily_volume": 599273.8111947351,
+        "X_eff_ask": 599121.3206363225,
+        "Y_eff_ask": 62526748.81990687,
+        "price_per_token": 0.009542
+    },
+    "SELFIE": {
+        "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+        "symbol": "SELFIE",
+        "decimals": 6,
+        "daily_volume": 558613.4233276378,
+        "X_eff_ask": 375067.2511673253,
+        "Y_eff_ask": 104903752.20836881,
+        "price_per_token": 0.003579
+    },
+    "mini": {
+        "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+        "symbol": "mini",
+        "decimals": 6,
+        "daily_volume": 551053.067726583,
+        "X_eff_ask": 687048.3579761557,
+        "Y_eff_ask": 77948635.4999508,
+        "price_per_token": 0.008779
+    },
+    "TROLL": {
+        "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+        "symbol": "TROLL",
+        "decimals": 6,
+        "daily_volume": 530277.7352195532,
+        "X_eff_ask": 477736.34464299405,
+        "Y_eff_ask": 26813692.62497382,
+        "price_per_token": 0.018177
+    },
+    "BONGO": {
+        "address": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU",
+        "symbol": "BONGO",
+        "decimals": 9,
+        "daily_volume": 501911.68568476907,
+        "X_eff_ask": 382044.9707858171,
+        "Y_eff_ask": 35483794.87140268,
+        "price_per_token": 0.010724
+    },
+    "SONIC": {
+        "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+        "symbol": "SONIC",
+        "decimals": 9,
+        "daily_volume": 488910.9729629515,
+        "X_eff_ask": 1885066.5378833045,
+        "Y_eff_ask": 7985363.267934714,
+        "price_per_token": 0.239919
+    },
+    "KNET": {
+        "address": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
+        "symbol": "KNET",
+        "decimals": 9,
+        "daily_volume": 467963.95468092174,
+        "X_eff_ask": 332886.4447574656,
+        "Y_eff_ask": 31156295.812373962,
+        "price_per_token": 0.010623
+    },
+    "LetsBONK": {
+        "address": "CDBdbNqmrLu1PcgjrFG52yxg71QnFhBZcUE6PSFdbonk",
+        "symbol": "LetsBONK",
+        "decimals": 6,
+        "daily_volume": 452566.79902842286,
+        "X_eff_ask": 194180.52188813177,
+        "Y_eff_ask": 7040862.4142780155,
+        "price_per_token": 0.027493
+    },
+    "NOBODY": {
+        "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+        "symbol": "NOBODY",
+        "decimals": 9,
+        "daily_volume": 449718.7110415805,
+        "X_eff_ask": 2000469.2363915076,
+        "Y_eff_ask": 49119655.56394638,
+        "price_per_token": 0.040046
+    },
+    "SIGMA": {
+        "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
+        "symbol": "SIGMA",
+        "decimals": 6,
+        "daily_volume": 437580.32855856325,
+        "X_eff_ask": 896388.2902579277,
+        "Y_eff_ask": 41534156.923830576,
+        "price_per_token": 0.02139
+    },
+    "Anon": {
+        "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+        "symbol": "Anon",
+        "decimals": 9,
+        "daily_volume": 434635.784045016,
+        "X_eff_ask": 356473.49444563774,
+        "Y_eff_ask": 64699.48667179798,
+        "price_per_token": 5.470937
+    },
+    "pwease": {
+        "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+        "symbol": "pwease",
+        "decimals": 6,
+        "daily_volume": 421283.6306635331,
+        "X_eff_ask": 567933.3210899357,
+        "Y_eff_ask": 111586131.07188827,
+        "price_per_token": 0.005064
+    },
+    "DOGEAI": {
+        "address": "9UYAYvVS2cZ3BndbsoG1ScJbjfwyEPGxjE79hh5ipump",
+        "symbol": "DOGEAI",
+        "decimals": 6,
+        "daily_volume": 399219.5500038029,
+        "X_eff_ask": 476983.9592407214,
+        "Y_eff_ask": 18001159.629471015,
+        "price_per_token": 0.026393
+    },
+    "UFD": {
+        "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "symbol": "UFD",
+        "decimals": 6,
+        "daily_volume": 383267.2352095982,
+        "X_eff_ask": 1362048.540753891,
+        "Y_eff_ask": 44469658.279536314,
+        "price_per_token": 0.030505
+    },
+    "SNAI": {
+        "address": "Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump",
+        "symbol": "SNAI",
+        "decimals": 6,
+        "daily_volume": 364521.6156366775,
+        "X_eff_ask": 732261.3539280365,
+        "Y_eff_ask": 63804467.34198377,
+        "price_per_token": 0.011436
+    },
+    "BUCK": {
+        "address": "FLqmVrv6cp7icjobpRMQJMEyjF3kF84QmC4HXpySpump",
+        "symbol": "BUCK",
+        "decimals": 6,
+        "daily_volume": 361933.6126437857,
+        "X_eff_ask": 277872.336583056,
+        "Y_eff_ask": 92836022.2379879,
+        "price_per_token": 0.003008
+    },
+    "MUMU": {
+        "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+        "symbol": "MUMU",
+        "decimals": 6,
+        "daily_volume": 352085.9794193266,
+        "X_eff_ask": 379703.9008590536,
+        "Y_eff_ask": 113204299892.27043,
+        "price_per_token": 3e-06
+    },
+    "Italianrot": {
+        "address": "BQX1cjcRHXmrqNtoFWwmE5bZj7RPneTmqXB979b2pump",
+        "symbol": "Italianrot",
+        "decimals": 6,
+        "daily_volume": 322104.23988680285,
+        "X_eff_ask": 273245.34381144383,
+        "Y_eff_ask": 66104864.415141076,
+        "price_per_token": 0.004134
+    },
+    "pippin": {
+        "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+        "symbol": "pippin",
+        "decimals": 6,
+        "daily_volume": 319127.04991938354,
+        "X_eff_ask": 907591.8398485617,
+        "Y_eff_ask": 48249137.22303994,
+        "price_per_token": 0.018947
+    },
+    "omni": {
+        "address": "A8vJzs6ygbZQyYLf9FKund8j3pDfUzxBeje8rJiypump",
+        "symbol": "omni",
+        "decimals": 6,
+        "daily_volume": 318519.2265954287,
+        "X_eff_ask": 56620.327705268355,
+        "Y_eff_ask": 195485331.4119385,
+        "price_per_token": 0.000285
+    },
+    "BALL": {
+        "address": "BALLrveijbhu42QaS2XW1pRBYfMji73bGeYJghUvQs6y",
+        "symbol": "BALL",
+        "decimals": 9,
+        "daily_volume": 315353.33297307655,
+        "X_eff_ask": 119876.52868999157,
+        "Y_eff_ask": 67843646.15738897,
+        "price_per_token": 0.002031
+    },
+    "CHEX": {
+        "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+        "symbol": "CHEX",
+        "decimals": 8,
+        "daily_volume": 292240.90551017795,
+        "X_eff_ask": 533341.3386961211,
+        "Y_eff_ask": 2359690.6516815624,
+        "price_per_token": 0.227393
+    },
+    "LSD": {
+        "address": "DDti34vnkrCehR8fih6dTGpPuc3w8tL4XQ4QLQhc3xPa",
+        "symbol": "LSD",
+        "decimals": 9,
+        "daily_volume": 289268.0583014988,
+        "X_eff_ask": 88861.78050450754,
+        "Y_eff_ask": 81206402.15946124,
+        "price_per_token": 0.001088
+    },
+    "SSE": {
+        "address": "H4phNbsqjV5rqk8u6FUACTLB6rNZRTAPGnBb8KXJpump",
+        "symbol": "SSE",
+        "decimals": 6,
+        "daily_volume": 289261.34266964963,
+        "X_eff_ask": 472435.7537372293,
+        "Y_eff_ask": 56130709.90575309,
+        "price_per_token": 0.008498
+    },
+    "GRIFT": {
+        "address": "GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump",
+        "symbol": "GRIFT",
+        "decimals": 6,
+        "daily_volume": 286158.58545044914,
+        "X_eff_ask": 996100.5445844762,
+        "Y_eff_ask": 80998313.21488564,
+        "price_per_token": 0.012054
+    },
+    "DBR": {
+        "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+        "symbol": "DBR",
+        "decimals": 6,
+        "daily_volume": 248492.56760280937,
+        "X_eff_ask": 11180730.465229563,
+        "Y_eff_ask": 794581701.6321045,
+        "price_per_token": 0.014126
+    },
+    "BILLY": {
+        "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+        "symbol": "BILLY",
+        "decimals": 6,
+        "daily_volume": 237102.2235790335,
+        "X_eff_ask": 647663.3490160984,
+        "Y_eff_ask": 141473198.41685882,
+        "price_per_token": 0.004647
+    },
+    "moonpig": {
+        "address": "Ai3eKAWjzKMV8wRwd41nVP83yqfbAVJykhvJVPxspump",
+        "symbol": "moonpig",
+        "decimals": 6,
+        "daily_volume": 227768.32024104425,
+        "X_eff_ask": 859446.096082865,
+        "Y_eff_ask": 46019382.76335642,
+        "price_per_token": 0.018324
+    },
+    "USDUC": {
+        "address": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+        "symbol": "USDUC",
+        "decimals": 6,
+        "daily_volume": 222046.18258560455,
+        "X_eff_ask": 404819.8967405466,
+        "Y_eff_ask": 88093508.99553977,
+        "price_per_token": 0.004589
+    },
+    "KITTY": {
+        "address": "DFfPq2hHbJeunp1F6eNyuyvBHcPpnTqaawn2tAFUpump",
+        "symbol": "KITTY",
+        "decimals": 6,
+        "daily_volume": 213429.59749757583,
+        "X_eff_ask": 190070.7752275112,
+        "Y_eff_ask": 26517196.50509503,
+        "price_per_token": 0.007156
+    },
+    "nub": {
+        "address": "GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn",
+        "symbol": "nub",
+        "decimals": 9,
+        "daily_volume": 207540.91434702417,
+        "X_eff_ask": 569087.0597343416,
+        "Y_eff_ask": 109349215.30356702,
+        "price_per_token": 0.005218
+    },
+    "HAMMY": {
+        "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+        "symbol": "HAMMY",
+        "decimals": 6,
+        "daily_volume": 199142.88439980889,
+        "X_eff_ask": 170145.70625968277,
+        "Y_eff_ask": 105652390.09979711,
+        "price_per_token": 0.001625
+    },
+    "OLIVIA": {
+        "address": "2fdtCHuvyLcD2q86XZGFmYbDux9ZbbUgMmFhzChqmoon",
+        "symbol": "OLIVIA",
+        "decimals": 9,
+        "daily_volume": 181998.9463447903,
+        "X_eff_ask": 193622.2513629981,
+        "Y_eff_ask": 39025398.620683365,
+        "price_per_token": 0.004949
+    },
+    "CHILLHOUSE": {
+        "address": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
+        "symbol": "CHILLHOUSE",
+        "decimals": 6,
+        "daily_volume": 180666.22482570857,
+        "X_eff_ask": 439422.7459593157,
+        "Y_eff_ask": 54859695.40492781,
+        "price_per_token": 0.007946
+    },
+    "CROWN": {
+        "address": "GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG",
+        "symbol": "CROWN",
+        "decimals": 9,
+        "daily_volume": 177964.42007244413,
+        "X_eff_ask": 243545.12204879872,
+        "Y_eff_ask": 1475520.1710904476,
+        "price_per_token": 0.163992
+    },
+    "SCF": {
+        "address": "GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump",
+        "symbol": "SCF",
+        "decimals": 6,
+        "daily_volume": 177007.1827075552,
+        "X_eff_ask": 567541.2789093404,
+        "Y_eff_ask": 70212425.59231019,
+        "price_per_token": 0.008059
+    },
+    "Bert": {
+        "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+        "symbol": "Bert",
+        "decimals": 6,
+        "daily_volume": 175505.25541411655,
+        "X_eff_ask": 823540.3439592874,
+        "Y_eff_ask": 23020243.216893505,
+        "price_per_token": 0.035677
+    },
+    "BITCOIN": {
+        "address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
+        "symbol": "BITCOIN",
+        "decimals": 8,
+        "daily_volume": 165566.20575634544,
+        "X_eff_ask": 162150.44344497428,
+        "Y_eff_ask": 1727158.5859405857,
+        "price_per_token": 0.094753
+    },
+    "BUTTCOIN": {
+        "address": "FasH397CeZLNYWkd3wWK9vrmjd1z93n3b59DssRXpump",
+        "symbol": "BUTTCOIN",
+        "decimals": 6,
+        "daily_volume": 165396.81032501286,
+        "X_eff_ask": 418792.41763555247,
+        "Y_eff_ask": 121164094.83911008,
+        "price_per_token": 0.003474
+    },
+    "HARAMBE": {
+        "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+        "symbol": "HARAMBE",
+        "decimals": 9,
+        "daily_volume": 163625.95584068392,
+        "X_eff_ask": 402958.0674749289,
+        "Y_eff_ask": 98820879.58693051,
+        "price_per_token": 0.004082
+    },
+    "SKBDI": {
+        "address": "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB",
+        "symbol": "SKBDI",
+        "decimals": 9,
+        "daily_volume": 153215.0355423964,
+        "X_eff_ask": 277315.90716265526,
+        "Y_eff_ask": 3657323.2825371767,
+        "price_per_token": 0.075518
+    },
+    "BRAINLET": {
+        "address": "8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF",
+        "symbol": "BRAINLET",
+        "decimals": 6,
+        "daily_volume": 153053.2045969197,
+        "X_eff_ask": 218458.99392346267,
+        "Y_eff_ask": 88545638.70914401,
+        "price_per_token": 0.002474
+    },
+    "LUMO": {
+        "address": "4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump",
+        "symbol": "LUMO",
+        "decimals": 6,
+        "daily_volume": 151648.09268779034,
+        "X_eff_ask": 285644.15633491543,
+        "Y_eff_ask": 108871997.97412854,
+        "price_per_token": 0.002698
+    },
+    "RNT": {
+        "address": "2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
+        "symbol": "RNT",
+        "decimals": 6,
+        "daily_volume": 142710.80667775113,
+        "X_eff_ask": 381822.8137021363,
+        "Y_eff_ask": 156433781.58179483,
+        "price_per_token": 0.002449
+    },
+    "HYPER": {
+        "address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+        "symbol": "HYPER",
+        "decimals": 6,
+        "daily_volume": 140210.60141944603,
+        "X_eff_ask": 289314.53301080625,
+        "Y_eff_ask": 15308565.532127282,
+        "price_per_token": 0.018863
+    },
+    "TEMA": {
+        "address": "CnfshwmvDqLrB1jSLF7bLJ3iZF5u354WRFGPBmGz4uyf",
+        "symbol": "TEMA",
+        "decimals": 6,
+        "daily_volume": 139692.20934821173,
+        "X_eff_ask": 184904.5604958694,
+        "Y_eff_ask": 69139067.88123815,
+        "price_per_token": 0.002685
+    },
+    "DOG": {
+        "address": "B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7",
+        "symbol": "DOG",
+        "decimals": 8,
+        "daily_volume": 84880.78462070644,
+        "X_eff_ask": 507275.93808362324,
+        "Y_eff_ask": 363184463.7886995,
+        "price_per_token": 0.001408
+    },
+    "Shoggoth": {
+        "address": "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump",
+        "symbol": "Shoggoth",
+        "decimals": 6,
+        "daily_volume": 136577.7683625621,
+        "X_eff_ask": 591208.7615669671,
+        "Y_eff_ask": 46249946.04608821,
+        "price_per_token": 0.012894
+    },
+    "YNE": {
+        "address": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
+        "symbol": "YNE",
+        "decimals": 6,
+        "daily_volume": 134912.43427278666,
+        "X_eff_ask": 310795.3080135986,
+        "Y_eff_ask": 85650811.05901253,
+        "price_per_token": 0.003632
+    },
+    "USDe": {
+        "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
+        "symbol": "USDe",
+        "decimals": 9,
+        "daily_volume": 134849.1471438827,
+        "X_eff_ask": 1436808.4051364544,
+        "Y_eff_ask": 1447386.8861906878,
+        "price_per_token": 1.000079
+    },
+    "NOS": {
+        "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+        "symbol": "NOS",
+        "decimals": 6,
+        "daily_volume": 129222.56925470056,
+        "X_eff_ask": 957936.7923264301,
+        "Y_eff_ask": 1356070.2080487614,
+        "price_per_token": 0.702519
+    },
+    "GIKO": {
+        "address": "3WPep4ufaToK1aS5s8BL9inzeUrt4DYaQCiic6ZkkC1U",
+        "symbol": "GIKO",
+        "decimals": 9,
+        "daily_volume": 127620.47459059456,
+        "X_eff_ask": 206557.4622568094,
+        "Y_eff_ask": 421348.11771024787,
+        "price_per_token": 0.487438
+    },
+    "NATIX": {
+        "address": "FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX",
+        "symbol": "NATIX",
+        "decimals": 6,
+        "daily_volume": 127443.38913026667,
+        "X_eff_ask": 1552113.7546644958,
+        "Y_eff_ask": 1190385474.1537135,
+        "price_per_token": 0.001297
+    },
+    "GUMMY": {
+        "address": "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+        "symbol": "GUMMY",
+        "decimals": 9,
+        "daily_volume": 120582.17468743931,
+        "X_eff_ask": 211510.73784634433,
+        "Y_eff_ask": 151595424.4585403,
+        "price_per_token": 0.001425
+    },
+    "STONKS": {
+        "address": "6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump",
+        "symbol": "STONKS",
+        "decimals": 6,
+        "daily_volume": 118626.43674529568,
+        "X_eff_ask": 1045543.9213865204,
+        "Y_eff_ask": 48176051.90387318,
+        "price_per_token": 0.021588
+    },
+    "DOLAN": {
+        "address": "4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z",
+        "symbol": "DOLAN",
+        "decimals": 6,
+        "daily_volume": 117988.5782940661,
+        "X_eff_ask": 316788.07450824144,
+        "Y_eff_ask": 4537502.989564257,
+        "price_per_token": 0.069532
+    },
+    "jellyjelly": {
+        "address": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+        "symbol": "jellyjelly",
+        "decimals": 6,
+        "daily_volume": 114503.00871289815,
+        "X_eff_ask": 1385927.8775433241,
+        "Y_eff_ask": 51456591.58750845,
+        "price_per_token": 0.026926
+    },
+    "CATANA": {
+        "address": "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",
+        "symbol": "CATANA",
+        "decimals": 6,
+        "daily_volume": 109107.46411196057,
+        "X_eff_ask": 129685.12059407934,
+        "Y_eff_ask": 140462440.16919845,
+        "price_per_token": 0.000921
+    },
+    "ZAILGO": {
+        "address": "GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump",
+        "symbol": "ZAILGO",
+        "decimals": 6,
+        "daily_volume": 105976.60235751672,
+        "X_eff_ask": 157299.70381737498,
+        "Y_eff_ask": 126208803.65310942,
+        "price_per_token": 0.001254
+    },
+    "hehe": {
+        "address": "BreuhVohXX5fv6q41uyb3sojtAuGoGaiAhKBMtcrpump",
+        "symbol": "hehe",
+        "decimals": 6,
+        "daily_volume": 105255.97361282272,
+        "X_eff_ask": 252273.47691768134,
+        "Y_eff_ask": 44413495.45403208,
+        "price_per_token": 0.005848
+    },
+    "HONEY": {
+        "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+        "symbol": "HONEY",
+        "decimals": 9,
+        "daily_volume": 105220.15750882796,
+        "X_eff_ask": 174715.1928769596,
+        "Y_eff_ask": 6929321.901012111,
+        "price_per_token": 0.026647
+    },
+    "SHDW": {
+        "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+        "symbol": "SHDW",
+        "decimals": 9,
+        "daily_volume": 96314.25872837556,
+        "X_eff_ask": 393472.22685644997,
+        "Y_eff_ask": 3773480.7174183507,
+        "price_per_token": 0.103998
+    },
+    "AGiXT": {
+        "address": "F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump",
+        "symbol": "AGiXT",
+        "decimals": 6,
+        "daily_volume": 94276.98642938623,
+        "X_eff_ask": 234445.75629474144,
+        "Y_eff_ask": 78442279.39086291,
+        "price_per_token": 0.003
+    },
+    "MOTHER": {
+        "address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+        "symbol": "MOTHER",
+        "decimals": 6,
+        "daily_volume": 92279.50941633253,
+        "X_eff_ask": 820745.8824154743,
+        "Y_eff_ask": 76902949.36689742,
+        "price_per_token": 0.010635
+    },
+    "WYAC": {
+        "address": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
+        "symbol": "WYAC",
+        "decimals": 6,
+        "daily_volume": 91612.26551352024,
+        "X_eff_ask": 183350.13049162694,
+        "Y_eff_ask": 59800748.76369605,
+        "price_per_token": 0.003077
+    },
+    "AVO": {
+        "address": "GdZ9rwHyKcriLdbSzhtEFLe5MLs7Vk6AY1aE5ei7nsmP",
+        "symbol": "AVO",
+        "decimals": 9,
+        "daily_volume": 90782.63265922852,
+        "X_eff_ask": 165622.26233642607,
+        "Y_eff_ask": 106823953.84537536,
+        "price_per_token": 0.001533
+    },
+    "PENG": {
+        "address": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+        "symbol": "PENG",
+        "decimals": 6,
+        "daily_volume": 88915.35251068816,
+        "X_eff_ask": 226949.7889546462,
+        "Y_eff_ask": 12457834.508323617,
+        "price_per_token": 0.018145
+    },
+    "jam": {
+        "address": "51zudBR4NmATG35goida4dLQH5YPn9k8hVkLcizNpump",
+        "symbol": "jam",
+        "decimals": 6,
+        "daily_volume": 88844.43128439489,
+        "X_eff_ask": 75329.17182802175,
+        "Y_eff_ask": 151439714.15601483,
+        "price_per_token": 0.000496
+    },
+    "Butthole": {
+        "address": "CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
+        "symbol": "Butthole",
+        "decimals": 6,
+        "daily_volume": 87738.04554621593,
+        "X_eff_ask": 413106.0198880706,
+        "Y_eff_ask": 89696690.15547533,
+        "price_per_token": 0.004642
+    },
+    "STNK": {
+        "address": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+        "symbol": "STNK",
+        "decimals": 9,
+        "daily_volume": 86890.3624051818,
+        "X_eff_ask": 301687.84089747106,
+        "Y_eff_ask": 17399.897257168584,
+        "price_per_token": 16.958223
+    },
+    "ATLAS": {
+        "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+        "symbol": "ATLAS",
+        "decimals": 8,
+        "daily_volume": 86176.53491196777,
+        "X_eff_ask": 249902.34200588724,
+        "Y_eff_ask": 224198275.06737453,
+        "price_per_token": 0.001121
+    },
+    "FAT": {
+        "address": "5LJMJyR8MtAkbtpf8kFUV7S9oFG3xaGDdcnFxYt9pump",
+        "symbol": "FAT",
+        "decimals": 6,
+        "daily_volume": 85531.56331109593,
+        "X_eff_ask": 240161.0289716874,
+        "Y_eff_ask": 48409854.99760222,
+        "price_per_token": 0.00496
+    },
+    "MOBILE": {
+        "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+        "symbol": "MOBILE",
+        "decimals": 6,
+        "daily_volume": 85341.94153326722,
+        "X_eff_ask": 257271.07815138507,
+        "Y_eff_ask": 691161938.7926668,
+        "price_per_token": 0.000373
+    },
+    "FRED": {
+        "address": "CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump",
+        "symbol": "FRED",
+        "decimals": 6,
+        "daily_volume": 85337.30859967615,
+        "X_eff_ask": 586866.3998241813,
+        "Y_eff_ask": 123272907.15516394,
+        "price_per_token": 0.004763
+    },
+    "BLOCK": {
+        "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+        "symbol": "BLOCK",
+        "decimals": 6,
+        "daily_volume": 83419.32236455067,
+        "X_eff_ask": 636755.6123652661,
+        "Y_eff_ask": 8745951.912312998,
+        "price_per_token": 0.072449
+    },
+    "NEON": {
+        "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+        "symbol": "NEON",
+        "decimals": 9,
+        "daily_volume": 83351.09239513197,
+        "X_eff_ask": 302278.93812292203,
+        "Y_eff_ask": 2673892.263324831,
+        "price_per_token": 0.116627
+    },
+    "GFM": {
+        "address": "E1jCTXdkMRoawoWoqfbhiNkkLbxcSHPssMo36U84pump",
+        "symbol": "GFM",
+        "decimals": 6,
+        "daily_volume": 77511.5493223904,
+        "X_eff_ask": 156376.6099093416,
+        "Y_eff_ask": 72745107.52062409,
+        "price_per_token": 0.002207
+    },
+    "DADDY": {
+        "address": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
+        "symbol": "DADDY",
+        "decimals": 6,
+        "daily_volume": 76879.68254375759,
+        "X_eff_ask": 988709.7265301769,
+        "Y_eff_ask": 26018960.087764673,
+        "price_per_token": 0.038082
+    },
+    "real": {
+        "address": "Cy4DSbZW4CE6cG6HDqQFhXxpHTdm41SY9hBB1JG6pump",
+        "symbol": "real",
+        "decimals": 6,
+        "daily_volume": 75893.32322265595,
+        "X_eff_ask": 40986.34869080478,
+        "Y_eff_ask": 203510936.36687192,
+        "price_per_token": 0.0002
+    },
+    "Stupid": {
+        "address": "9RjwNo6hBPkxayWHCqQD1VjaH8igSizEseNZNbddpump",
+        "symbol": "Stupid",
+        "decimals": 6,
+        "daily_volume": 74068.34395156919,
+        "X_eff_ask": 153032.68183380025,
+        "Y_eff_ask": 187282701.63325098,
+        "price_per_token": 0.000815
+    },
+    "wDOG": {
+        "address": "GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump",
+        "symbol": "wDOG",
+        "decimals": 6,
+        "daily_volume": 71207.99666777396,
+        "X_eff_ask": 175025.38866935342,
+        "Y_eff_ask": 207722693.15236926,
+        "price_per_token": 0.000841
+    },
+    "RFC": {
+        "address": "C3DwDjT17gDvvCYC2nsdGHxDHVmQRdhKfpAdqQ29pump",
+        "symbol": "RFC",
+        "decimals": 6,
+        "daily_volume": 68729.72559147024,
+        "X_eff_ask": 476913.16119744926,
+        "Y_eff_ask": 47593627.42531146,
+        "price_per_token": 0.01012
+    },
+    "HABIBI": {
+        "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46",
+        "symbol": "HABIBI",
+        "decimals": 6,
+        "daily_volume": 68572.32665174798,
+        "X_eff_ask": 187686.58944776613,
+        "Y_eff_ask": 44409605.58290963,
+        "price_per_token": 0.004231
+    },
+    "alpha": {
+        "address": "2zrH2jE542mzB4HABgBjdWMQPtNC5H12pwo1iLpfpump",
+        "symbol": "alpha",
+        "decimals": 6,
+        "daily_volume": 66329.37368884122,
+        "X_eff_ask": 74895.2070556158,
+        "Y_eff_ask": 209019886.0327856,
+        "price_per_token": 0.000357
+    },
+    "SEND": {
+        "address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+        "symbol": "SEND",
+        "decimals": 6,
+        "daily_volume": 64952.47554106148,
+        "X_eff_ask": 1003347.0230673947,
+        "Y_eff_ask": 52132707.31516364,
+        "price_per_token": 0.019213
+    },
+    "Aimonica": {
+        "address": "FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5",
+        "symbol": "Aimonica",
+        "decimals": 6,
+        "daily_volume": 62528.50898056675,
+        "X_eff_ask": 169550.29177791212,
+        "Y_eff_ask": 49923988.86016118,
+        "price_per_token": 0.003406
+    },
+    "CAR": {
+        "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+        "symbol": "CAR",
+        "decimals": 6,
+        "daily_volume": 60838.25106446017,
+        "X_eff_ask": 805376.0988203734,
+        "Y_eff_ask": 14273214.187219763,
+        "price_per_token": 0.057187
+    },
+    "LLM": {
+        "address": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
+        "symbol": "LLM",
+        "decimals": 6,
+        "daily_volume": 60377.388377898744,
+        "X_eff_ask": 297372.38967254094,
+        "Y_eff_ask": 137846303.43034926,
+        "price_per_token": 0.002163
+    },
+    "MTN": {
+        "address": "mtnc7NNSpAJuvYNmayXU63WhWZGgFzwQ2yeYWqemeta",
+        "symbol": "MTN",
+        "decimals": 6,
+        "daily_volume": 57309.60150938981,
+        "X_eff_ask": 553025.5294269378,
+        "Y_eff_ask": 1180605.197584727,
+        "price_per_token": 0.466539
+    },
+    "J": {
+        "address": "Jambjx1oJoZNBZiqbiF9TqgatEZPdyfvYa9WVsKNzUh",
+        "symbol": "J",
+        "decimals": 9,
+        "daily_volume": 55873.30663870308,
+        "X_eff_ask": 318371.54762380495,
+        "Y_eff_ask": 1819391.2032831903,
+        "price_per_token": 0.174362
+    },
+    "PURPE": {
+        "address": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
+        "symbol": "PURPE",
+        "decimals": 1,
+        "daily_volume": 54101.13548351321,
+        "X_eff_ask": 556821.7916234671,
+        "Y_eff_ask": 9760570611.677647,
+        "price_per_token": 5.1e-05
+    },
+    "CHONKY": {
+        "address": "H7ed7UgcLp3ax4X1CQ5WuWDn6d1pprfMMYiv5ejwLWWU",
+        "symbol": "CHONKY",
+        "decimals": 6,
+        "daily_volume": 52964.69538134486,
+        "X_eff_ask": 139921.47065757657,
+        "Y_eff_ask": 47385413834.9777,
+        "price_per_token": 3e-06
+    },
+    "GNON": {
+        "address": "HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump",
+        "symbol": "GNON",
+        "decimals": 6,
+        "daily_volume": 52776.470969457514,
+        "X_eff_ask": 327524.8093158491,
+        "Y_eff_ask": 167491316.9918509,
+        "price_per_token": 0.001958
+    },
+    "GEOD": {
+        "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+        "symbol": "GEOD",
+        "decimals": 9,
+        "daily_volume": 52545.91780673156,
+        "X_eff_ask": 784976.5209759991,
+        "Y_eff_ask": 3673833.250565428,
+        "price_per_token": 0.215299
+    },
+    "COOK": {
+        "address": "G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n",
+        "symbol": "COOK",
+        "decimals": 6,
+        "daily_volume": 51365.381460208715,
+        "X_eff_ask": 75875.91804891806,
+        "Y_eff_ask": 139685012.28214583,
+        "price_per_token": 0.000541
+    },
+    "CANDLE": {
+        "address": "A8bcY1eSenMiMy75vgSnp6ShMfWHRHjeM6JxfM1CNDL",
+        "symbol": "CANDLE",
+        "decimals": 6,
+        "daily_volume": 50536.48418675984,
+        "X_eff_ask": 1200625.32368272,
+        "Y_eff_ask": 857761186.1667267,
+        "price_per_token": 0.0014
+    },
+    "Boopa": {
+        "address": "JmMRbLcKgNCu17yHZDAn4strE5NjmWJ4pCeJ7s7boop",
+        "symbol": "Boopa",
+        "decimals": 9,
+        "daily_volume": 49310.69859193333,
+        "X_eff_ask": 54952.57096183788,
+        "Y_eff_ask": 73873336.12051305,
+        "price_per_token": 0.00073
+    },
+    "TANK": {
+        "address": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",
+        "symbol": "TANK",
+        "decimals": 6,
+        "daily_volume": 48646.70264114871,
+        "X_eff_ask": 192941.5242040355,
+        "Y_eff_ask": 101835237.77368803,
+        "price_per_token": 0.001911
+    },
+    "POLIS": {
+        "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+        "symbol": "POLIS",
+        "decimals": 8,
+        "daily_volume": 47344.969599314834,
+        "X_eff_ask": 204717.96477474613,
+        "Y_eff_ask": 3374591.0908216615,
+        "price_per_token": 0.060151
+    },
+    "toly": {
+        "address": "JCeoBX79HfatfaY6xvuNyCHf86hwgkCCWDpEycVHtime",
+        "symbol": "toly",
+        "decimals": 6,
+        "daily_volume": 46675.54325666548,
+        "X_eff_ask": 272370.0730400355,
+        "Y_eff_ask": 8981.091945582828,
+        "price_per_token": 29.380649
+    },
+    "nuit": {
+        "address": "2eXamy7t3kvKhfV6aJ6Uwe3eh8cuREFcTKs1mFKZpump",
+        "symbol": "nuit",
+        "decimals": 6,
+        "daily_volume": 46186.911711259934,
+        "X_eff_ask": 194905.73725207653,
+        "Y_eff_ask": 66479202.64491076,
+        "price_per_token": 0.002944
+    },
+    "DARK": {
+        "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
+        "symbol": "DARK",
+        "decimals": 6,
+        "daily_volume": 46186.67277499039,
+        "X_eff_ask": 441546.9668452416,
+        "Y_eff_ask": 77935309.05393021,
+        "price_per_token": 0.00583
+    },
+    "HAT": {
+        "address": "AxGAbdFtdbj2oNXa4dKqFvwHzgFtW9mFHWmd7vQfpump",
+        "symbol": "HAT",
+        "decimals": 6,
+        "daily_volume": 45818.582647895215,
+        "X_eff_ask": 230293.5747677182,
+        "Y_eff_ask": 76458981.54003187,
+        "price_per_token": 0.003025
+    },
+    "ASS": {
+        "address": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+        "symbol": "ASS",
+        "decimals": 6,
+        "daily_volume": 45260.55501579476,
+        "X_eff_ask": 200042.4649366713,
+        "Y_eff_ask": 62862489.373771936,
+        "price_per_token": 0.003192
+    },
+    "SAMO": {
+        "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "symbol": "SAMO",
+        "decimals": 9,
+        "daily_volume": 45258.48459455944,
+        "X_eff_ask": 403209.94748272235,
+        "Y_eff_ask": 154902360.42490062,
+        "price_per_token": 0.002607
+    },
+    "TRISIG": {
+        "address": "BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump",
+        "symbol": "TRISIG",
+        "decimals": 6,
+        "daily_volume": 44504.228080918656,
+        "X_eff_ask": 181635.1656996143,
+        "Y_eff_ask": 83016584.71093126,
+        "price_per_token": 0.002185
+    },
+    "MemesAI": {
+        "address": "39qibQxVzemuZTEvjSB7NePhw9WyyHdQCqP8xmBMpump",
+        "symbol": "MemesAI",
+        "decimals": 6,
+        "daily_volume": 43769.67561910176,
+        "X_eff_ask": 361364.9611037233,
+        "Y_eff_ask": 135512726.7790633,
+        "price_per_token": 0.002674
+    },
+    "NPC": {
+        "address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
+        "symbol": "NPC",
+        "decimals": 8,
+        "daily_volume": 43091.86277360071,
+        "X_eff_ask": 426316.6729807692,
+        "Y_eff_ask": 28546334.82555852,
+        "price_per_token": 0.014874
+    },
+    "LIKE": {
+        "address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+        "symbol": "LIKE",
+        "decimals": 9,
+        "daily_volume": 41277.51133710562,
+        "X_eff_ask": 411582.4291783992,
+        "Y_eff_ask": 29616144.581038255,
+        "price_per_token": 0.013791
+    },
+    "EPIK": {
+        "address": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw",
+        "symbol": "EPIK",
+        "decimals": 6,
+        "daily_volume": 41100.251991805424,
+        "X_eff_ask": 255789.43495270849,
+        "Y_eff_ask": 65289452.41660202,
+        "price_per_token": 0.003923
+    },
+    "STAN": {
+        "address": "CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC",
+        "symbol": "STAN",
+        "decimals": 5,
+        "daily_volume": 41093.46268797272,
+        "X_eff_ask": 112519.98272854394,
+        "Y_eff_ask": 97570767.93365376,
+        "price_per_token": 0.001147
+    },
+    "vvaifu": {
+        "address": "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",
+        "symbol": "vvaifu",
+        "decimals": 6,
+        "daily_volume": 40519.11796174106,
+        "X_eff_ask": 374722.78144860006,
+        "Y_eff_ask": 101735259.3958859,
+        "price_per_token": 0.00369
+    },
+    "PESTO": {
+        "address": "34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump",
+        "symbol": "PESTO",
+        "decimals": 6,
+        "daily_volume": 37788.22614304049,
+        "X_eff_ask": 192909.16431103056,
+        "Y_eff_ask": 217302599.42125997,
+        "price_per_token": 0.001118
+    },
+    "Project89": {
+        "address": "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump",
+        "symbol": "Project89",
+        "decimals": 6,
+        "daily_volume": 36730.89729202442,
+        "X_eff_ask": 328804.7675232259,
+        "Y_eff_ask": 116539999.37581064,
+        "price_per_token": 0.002834
+    },
+    "WHISP": {
+        "address": "whispF7G9DHaojYHe2cdhRX5EMJzGBdqq7R57kL6inL",
+        "symbol": "WHISP",
+        "decimals": 6,
+        "daily_volume": 36435.651895936106,
+        "X_eff_ask": 131665.76266021375,
+        "Y_eff_ask": 176552427.9814586,
+        "price_per_token": 0.000744
+    },
+    "degenai": {
+        "address": "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",
+        "symbol": "degenai",
+        "decimals": 6,
+        "daily_volume": 35586.0217885171,
+        "X_eff_ask": 345798.70654190565,
+        "Y_eff_ask": 89422684.29690282,
+        "price_per_token": 0.003872
+    },
+    "BARSIK": {
+        "address": "7ZqzGzTNg5tjK1CHTBdGFHyKjBtXdfvAobuGgdt4pump",
+        "symbol": "BARSIK",
+        "decimals": 6,
+        "daily_volume": 34813.30479887215,
+        "X_eff_ask": 148674.26623116498,
+        "Y_eff_ask": 101998703.19315442,
+        "price_per_token": 0.001456
+    },
+    "PUPS": {
+        "address": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
+        "symbol": "PUPS",
+        "decimals": 9,
+        "daily_volume": 34712.681550569985,
+        "X_eff_ask": 141515.42594840616,
+        "Y_eff_ask": 5942051.135481602,
+        "price_per_token": 0.023427
+    },
+    "neet": {
+        "address": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+        "symbol": "neet",
+        "decimals": 6,
+        "daily_volume": 34168.535483617576,
+        "X_eff_ask": 337686.6407673673,
+        "Y_eff_ask": 73778319.69174914,
+        "price_per_token": 0.004427
+    },
+    "IMG": {
+        "address": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh",
+        "symbol": "IMG",
+        "decimals": 6,
+        "daily_volume": 33626.978388425676,
+        "X_eff_ask": 237549.9656230311,
+        "Y_eff_ask": 45381338.90175912,
+        "price_per_token": 0.004734
+    },
+    "NEUR": {
+        "address": "3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
+        "symbol": "NEUR",
+        "decimals": 6,
+        "daily_volume": 33124.09046734591,
+        "X_eff_ask": 234638.304436621,
+        "Y_eff_ask": 123138757.58646649,
+        "price_per_token": 0.001923
+    },
+    "GRPH": {
+        "address": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+        "symbol": "GRPH",
+        "decimals": 6,
+        "daily_volume": 32990.789860590376,
+        "X_eff_ask": 279262.3865479068,
+        "Y_eff_ask": 69217852.17072092,
+        "price_per_token": 0.00405
+    },
+    "RBT": {
+        "address": "65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf",
+        "symbol": "RBT",
+        "decimals": 6,
+        "daily_volume": 32892.026145320095,
+        "X_eff_ask": 0.997542543927553,
+        "Y_eff_ask": 2.4142114272306148,
+        "price_per_token": 4e-06
+    },
+    "UBC": {
+        "address": "9psiRdn9cXYVps4F1kFuoNjd2EtmqNJXrCPmRppJpump",
+        "symbol": "UBC",
+        "decimals": 6,
+        "daily_volume": 32642.54535583376,
+        "X_eff_ask": 136637.82838617064,
+        "Y_eff_ask": 186947662.73335996,
+        "price_per_token": 0.000729
+    },
+    "NST": {
+        "address": "G7iK3prSzAA4vzcJWvsLUEsdCqzR7PnMzJV61vSdFSNW",
+        "symbol": "NST",
+        "decimals": 8,
+        "daily_volume": 32083.42972810007,
+        "X_eff_ask": 199983.77886113923,
+        "Y_eff_ask": 66025.29187168348,
+        "price_per_token": 3.019534
+    },
+    "FUCKCOIN": {
+        "address": "Cz75ZtjwgZmr5J1VDBRTm5ZybZvEFR5DEdb8hEy59pWq",
+        "symbol": "FUCKCOIN",
+        "decimals": 6,
+        "daily_volume": 31962.314593502382,
+        "X_eff_ask": 340545.85260032007,
+        "Y_eff_ask": 49821987.75035807,
+        "price_per_token": 0.006743
+    },
+    "DUKO": {
+        "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9",
+        "symbol": "DUKO",
+        "decimals": 6,
+        "daily_volume": 31520.806976840155,
+        "X_eff_ask": 244475.05793485008,
+        "Y_eff_ask": 918028652.1004771,
+        "price_per_token": 0.000265
+    },
+    "REALIS": {
+        "address": "EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump",
+        "symbol": "REALIS",
+        "decimals": 6,
+        "daily_volume": 31186.075791010648,
+        "X_eff_ask": 223387.55727851923,
+        "Y_eff_ask": 79047575.00031255,
+        "price_per_token": 0.002837
+    },
+    "MAD": {
+        "address": "madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv",
+        "symbol": "MAD",
+        "decimals": 6,
+        "daily_volume": 30746.292047292984,
+        "X_eff_ask": 170965.06827883385,
+        "Y_eff_ask": 31444951424.801453,
+        "price_per_token": 6e-06
+    },
+    "USEDCAR": {
+        "address": "9gwTegFJJErDpWJKjPfLr2g2zrE3nL1v5zpwbtsk3c6P",
+        "symbol": "USEDCAR",
+        "decimals": 9,
+        "daily_volume": 30670.59471084631,
+        "X_eff_ask": 136142.0502834864,
+        "Y_eff_ask": 60786101.20731263,
+        "price_per_token": 0.002243
+    },
+    "LOL": {
+        "address": "LoL1RDQiUfifC2BX28xaef6r2G8ES8SEzgrzThJemMv",
+        "symbol": "LOL",
+        "decimals": 6,
+        "daily_volume": 30325.980142644217,
+        "X_eff_ask": 221481.94282283314,
+        "Y_eff_ask": 58994234.774512924,
+        "price_per_token": 0.003771
+    }
+}
